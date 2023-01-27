@@ -1,0 +1,44 @@
+Adele|19|Chasing Pavements|3|03:30
+Adele|19|Make You Feel My Love|4|03:32
+Adele|21|Rolling in the Deep|4|03:48
+Adele|25|Hello|4|04:55
+Airbag|Identity|Colours|4|08:07
+Also Eden|About Time|Between the Lines|3|08:48
+Chris Carmack|Pieces of You|Can't Do It Again|5|04:50
+Coldplay|A Head Full Of Dreams|Adventure Of A Lifetime|4|04:23
+Coldplay|A Head Full Of Dreams|Amazing Day|2|04:31
+Coldplay|Ghost Stories|A Sky Full of Stars|4|04:28
+Coldplay|Viva La Vida|Life In Technicolor|4|02:29
+Cosmosquad|Acid Test|Lubitorium|3|06:53
+Daughter|Not To Disappear|Doing The Right Thing|4|05:14
+Daughter|Not To Disappear|Numbers|4|04:16
+David Bowie|Best of Bowie|Fame|4|04:15
+David Bowie|Scary Monsters|Ashes To Ashes|4|04:24
+Daya|Daya|Hide Away|3|03:12
+Dixie Chicks|Taking the Long Way|Everybody Knows|3|04:18
+Francois Perusse|L'album du peuple - Tome 8|Le monde a des Kodacks|3|01:52
+Fred Et Nicolas Pellerin|Fred et Nicolas Pellerin|La Lurette En Colère|4|02:52
+Genesis|Live|Musical Box|4|10:56
+Genesis|Selling England By The Pound|The Cinema Show|5|11:04
+Josh Groban|Noel|Silent Night|2|04:11
+Justin Bieber|Purpose|Love Yourself|4|03:53
+Megadeth|Dystopia|The Threat Is Real|4|04:22
+Norah Jones|Come Away with Me|Feelin' The Same Way|5|02:57
+Pentatonix|Pentatonix|Can't Sleep Love|4|02:53
+Rachel Platten|Wildfire|Stand By You|3|03:39
+Sade|Diamond Life|Smooth Operator|3|04:54
+Sade|Stronger Than Pride|Love Is Stronger Than Pride|4|04:17
+Sade|Stronger Than Pride|Turn My Back on You|3|06:06
+Selena Gomez|For You|The Heart Wants What It Wants|3|03:47
+Shawn Mendes|Handwritten|Life Of The Party|2|03:34
+Sia|This Is Acting|Unstoppable|4|03:37
+Sting|Ten Summoner's Tales|Fields Of Gold|3|03:42
+Sting|Ten Summoner's Tales|Shape Of My Heart|4|04:38
+Susan Boyle|I Dreamed A Dream|Wild Horses|1|04:53
+Toni Braxton|Ultimate Toni Braxton|Un-Break My Heart|3|04:28
+Tori Kelly|Hollow|Hollow|3|03:30
+Tori Kelly|Unbreakable Smile|Should've Been Us|3|03:06
+Tortoise|The Catastrophist|Gesceap|4|07:37
+Van Halen|II|Beautiful Girls|4|03:56
+Van Halen|II|Dance The Night Away|4|03:09
+Yanni|Sensuous Chill|Desert Soul|2|03:35

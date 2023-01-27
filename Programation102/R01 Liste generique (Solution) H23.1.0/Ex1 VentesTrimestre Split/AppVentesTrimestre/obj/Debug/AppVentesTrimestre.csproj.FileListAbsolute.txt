@@ -1,0 +1,51 @@
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex2-R VentesTrimestre_Split (Sol) H15.1.0\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex2-R VentesTrimestre_Split (Sol) H15.1.0\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex2-R VentesTrimestre_Split (Sol) H15.1.0\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex2-R VentesTrimestre_Split (Sol) H15.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojResolveAssemblyReference.cache
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex2-R VentesTrimestre_Split (Sol) H15.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex2-R VentesTrimestre_Split (Sol) H15.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex2-R VentesTrimestre_Split (Sol) H15.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex2-R VentesTrimestre_Split (Sol) H15.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex2-R VentesTrimestre_Split (Sol) H15.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojResolveAssemblyReference.cache
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CopyComplete
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2-R VentesTrimestre_Split (Solution)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2 VentesTrimestre Split\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2 VentesTrimestre Split\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2 VentesTrimestre Split\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CopyComplete
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex2 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex1 VentesTrimestre Split\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex1 VentesTrimestre Split\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex1 VentesTrimestre Split\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex1 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex1 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex1 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex1 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex1 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex1 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex1 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex1 VentesTrimestre Split\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb

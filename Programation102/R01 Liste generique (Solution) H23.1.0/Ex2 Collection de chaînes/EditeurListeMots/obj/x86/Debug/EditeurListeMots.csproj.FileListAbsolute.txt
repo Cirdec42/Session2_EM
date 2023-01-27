@@ -1,0 +1,155 @@
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #20\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Module 2\Rencontre #20\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex2_EditeurListeMots (StreamReader)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex2_EditeurListeMots (StreamReader)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex2_EditeurListeMots (StreamReader)\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex2_EditeurListeMots (StreamReader)\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex2_EditeurListeMots (StreamReader)\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex2_EditeurListeMots (StreamReader)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex2_EditeurListeMots (StreamReader)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex2_EditeurListeMots (StreamReader)\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex2_EditeurListeMots (StreamReader)\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex4_Liste générique\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex4_Liste générique\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex4_Liste générique\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex4_Liste générique\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex4_Liste générique\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex4_Liste générique\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex4_Liste générique\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex4_Liste générique\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex4_Liste générique\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+F:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+F:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+F:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+F:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+F:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+F:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\__Cours\420-106 A12\R20\R20 Ex4_Liste dynamique de chaînes v1.0 SD\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\__Cours\420-ZZ Archive locale\420-106 A12(final)\R20 kit V1.2 PC\R20 Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\__Cours\420-ZZ Archive locale\420-106 A12(final)\R20 kit V1.2 PC\R20 Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\__Cours\420-116 A13\Module 2\R24 kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\__Cours\420-116 A13\Module 2\R24 kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\__Cours\420-116 A13\Module 2\R24 kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\__Cours\420-116 A13\Module 2\R24 kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\__Cours\420-116 A13\Module 2\R24 kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A13\Module 2\R24 kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\__Cours\420-116 A13\Module 2\R24 kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\__Cours\420-116 A13\Module 2\R24 kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\420-116 A13(final)\Module 2\R24 kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+G:\__Cours\420-116 A14\420-116 A13(final)\Module 2\R24 kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojResolveAssemblyReference.cache
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex4_Liste dynamique de chaînes v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+F:\__Cours\420-116 A14(finale)\_Pas fait cette session\R21 Ex4_Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+F:\__Cours\420-116 A14(finale)\_Pas fait cette session\R21 Ex4_Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+F:\__Cours\420-116 A14(finale)\_Pas fait cette session\R21 Ex4_Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+F:\__Cours\420-116 A14(finale)\_Pas fait cette session\R21 Ex4_Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+F:\__Cours\420-116 A14(finale)\_Pas fait cette session\R21 Ex4_Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojResolveAssemblyReference.cache
+F:\__Cours\420-116 A14(finale)\_Pas fait cette session\R21 Ex4_Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+F:\__Cours\420-116 A14(finale)\_Pas fait cette session\R21 Ex4_Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+F:\__Cours\420-116 A14(finale)\_Pas fait cette session\R21 Ex4_Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+F:\__Cours\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1.0\Ex3 Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+F:\__Cours\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1.0\Ex3 Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex3 Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex3 Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex3 Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex3 Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex3 Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex3 Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex3 Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex3 Liste dynamique de chaînes (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dynamique de chaînes (Solution) H15.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dynamique de chaînes (Solution) H15.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dynamique de chaînes (Solution) H15.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dynamique de chaînes (Solution) H15.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dynamique de chaînes (Solution) H15.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dynamique de chaînes (Solution) H15.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dynamique de chaînes (Solution) H15.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dyna. de chaînes (Sol) H16.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dyna. de chaînes (Sol) H16.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dyna. de chaînes (Sol) H16.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dyna. de chaînes (Sol) H16.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dyna. de chaînes (Sol) H16.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojResolveAssemblyReference.cache
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dyna. de chaînes (Sol) H16.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dyna. de chaînes (Sol) H16.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex3 Liste dyna. de chaînes (Sol) H16.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojResolveAssemblyReference.cache
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex3 Liste dyna. de chaînes (Solution)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex2 Collection de chaînes\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex2 Collection de chaînes\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex2 Collection de chaînes\EditeurListeMots\bin\Debug\EditeurListeMots.exe.config
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex2 Collection de chaînes\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex2 Collection de chaînes\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex2 Collection de chaînes\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb

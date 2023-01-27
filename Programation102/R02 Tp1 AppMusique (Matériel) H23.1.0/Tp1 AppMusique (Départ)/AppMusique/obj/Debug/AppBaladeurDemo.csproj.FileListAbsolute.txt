@@ -1,0 +1,236 @@
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Sol Demo AppBaladeur\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Sol Demo AppBaladeur\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+E:\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+E:\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+E:\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+E:\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+E:\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+E:\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+E:\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\ResolveAssemblyReference.cache
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\ResGen.read.1.tlog
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\Sol Demo AppBaladeur\AppBaladeur\obj\Debug\ResGen.write.1.tlog
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\ResolveAssemblyReference.cache
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\ResGen.read.1.tlog
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Autres cours\_Cours 206-H11\_Module 1\Tp2 Baladeur\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\ResGen.write.1.tlog
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.4.tlog
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\ResGen.read.1.tlog
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\_Mes Cours\_420-206 H12\H12 Sol AppBaladeur v1.0\AppBaladeur\obj\Debug\ResGen.write.1.tlog
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\obj\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.4.tlog
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\obj\Debug\ResGen.read.1.tlog
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\_Mes Cours\_420-206 H12\TP2 Baladeur Kit V1.1\H12 Sol AppBaladeur v1.5\AppBaladeur\obj\Debug\ResGen.write.1.tlog
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\ResolveAssemblyReference.cache
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\ResGen.read.1.tlog
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H12\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\ResGen.write.1.tlog
+F:\_Cours 206-H12\_Module 1\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+F:\_Cours 206-H12\_Module 1\TP2 Baladeur Kit H12 V2.0\H12 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H13\H13 TP2 Baladeur Kit V1.0\H13 TP2 Sol AppBaladeur v2.0\AppBaladeur\obj\Debug\ResGen.write.1.tlog
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\ResolveAssemblyReference.cache
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\ResGen.read.1.tlog
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\__Cours\420-206 H13\Module 1\R03 TP2 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\ResGen.write.1.tlog
+G:\__Cours\420-206 H14\R02 Tp1 Baladeur (Solution) v1.0.1\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+G:\__Cours\420-206 H14\R02 Tp1 Baladeur (Solution) v1.0.1\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+G:\__Cours\420-206 H14\R02 Tp1 Baladeur (Solution) v1.1\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+G:\__Cours\420-206 H14\R02 Tp1 Baladeur (Solution) v1.1\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v0.9\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v0.9\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v0.9\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v0.9\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v0.9\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojResolveAssemblyReference.cache
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v0.9\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v0.9\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v0.9\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.Cache
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojResolveAssemblyReference.cache
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+F:\_Cours 206-H14\_Module #1\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.Cache
+F:\__Cours\_420-206 H15\_420-206 H14(final)\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+F:\__Cours\_420-206 H15\_420-206 H14(final)\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+F:\__Cours\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+F:\__Cours\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+F:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+F:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+F:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+F:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+F:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojResolveAssemblyReference.cache
+F:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+F:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+F:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) v1.0\R02 Tp1 Baladeur (Solution) v1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.Cache
+G:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+G:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+G:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+G:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+G:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+G:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+G:\_420-206 H15\Module 1\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.Cache
+I:\_Cours 206 H16\_Cours 206 H15\_H15 Module #1\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+I:\_Cours 206 H16\_Cours 206 H15\_H15 Module #1\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+C:\Espace Labo\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+C:\Espace Labo\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+C:\Espace Labo\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+C:\Espace Labo\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+C:\Espace Labo\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojResolveAssemblyReference.cache
+C:\Espace Labo\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+C:\Espace Labo\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+C:\Espace Labo\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H15.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.Cache
+I:\_Cours 206 H16\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+I:\_Cours 206 H16\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+I:\_Cours 206 H16\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojResolveAssemblyReference.cache
+I:\_Cours 206 H16\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+I:\_Cours 206 H16\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+I:\_Cours 206 H16\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.Cache
+I:\_Cours 206 H16\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+I:\_Cours 206 H16\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+H:\_Cours 206 H18\R03 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+H:\_Cours 206 H18\R03 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+D:\_Cours 206 H19\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+D:\_Cours 206 H19\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+D:\_Cours 206 H19\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojAssemblyReference.cache
+D:\_Cours 206 H19\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+D:\_Cours 206 H19\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+D:\_Cours 206 H19\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.cache
+D:\_Cours 206 H19\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.CoreCompileInputs.cache
+D:\_Cours 206 H19\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+D:\_Cours 206 H19\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+H:\_Cours 206 H19\_Module 1\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+H:\_Cours 206 H19\_Module 1\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+H:\_Cours 206 H19\_Module 1\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojAssemblyReference.cache
+H:\_Cours 206 H19\_Module 1\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+H:\_Cours 206 H19\_Module 1\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+H:\_Cours 206 H19\_Module 1\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.cache
+H:\_Cours 206 H19\_Module 1\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.CoreCompileInputs.cache
+H:\_Cours 206 H19\_Module 1\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+H:\_Cours 206 H19\_Module 1\R02 Tp1 Baladeur\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe.config
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H16.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe.config
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+F:\_Cours 2N6 H20\R02 Labo\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+F:\_Cours 2N6 H20\R02 Travail Pratique #1\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe.config
+F:\_Cours 2N6 H20\R02 Travail Pratique #1\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+F:\_Cours 2N6 H20\R02 Travail Pratique #1\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+F:\_Cours 2N6 H20\R02 Travail Pratique #1\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R02 Travail Pratique #1\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R02 Travail Pratique #1\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+F:\_Cours 2N6 H20\R02 Travail Pratique #1\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R02 Travail Pratique #1\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R02 Travail Pratique #1\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+F:\_Cours 2N6 H20\R02 Travail Pratique #1\R02 Tp1 Baladeur (Solution) H20.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 Baladeur (Solution) H21.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe.config
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 Baladeur (Solution) H21.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.exe
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 Baladeur (Solution) H21.1.0\AppBaladeur\bin\Debug\AppBaladeurDemo.pdb
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 Baladeur (Solution) H21.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 Baladeur (Solution) H21.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 Baladeur (Solution) H21.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 Baladeur (Solution) H21.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 Baladeur (Solution) H21.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 Baladeur (Solution) H21.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.exe
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 Baladeur (Solution) H21.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.pdb

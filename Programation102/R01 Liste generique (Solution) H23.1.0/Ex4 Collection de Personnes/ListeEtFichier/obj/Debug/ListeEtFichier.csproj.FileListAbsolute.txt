@@ -1,0 +1,197 @@
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\ListeEtFichier\ListeEtFichier\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\Exer_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\Exer_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+N:\206 H10\01-Mise à niveau\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+K:\_Cours 206-H10\_Module 1\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+K:\_Cours 206-H10\_Module 1\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+K:\_Cours 206-H10\_Module 1\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+K:\_Cours 206-H10\_Module 1\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+K:\_Cours 206-H10\_Module 1\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ResolveAssemblyReference.cache
+K:\_Cours 206-H10\_Module 1\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+K:\_Cours 206-H10\_Module 1\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+K:\_Cours 206-H10\_Module 1\02 Theorie - Fichiers - Listes génériques\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+E:\_Cours 206-H11\_Module 1\Théorie 2\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+E:\_Cours 206-H11\_Module 1\Théorie 2\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+E:\_Cours 206-H11\_Module 1\Théorie 2\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+E:\_Cours 206-H11\_Module 1\Théorie 2\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+E:\_Cours 206-H11\_Module 1\Théorie 2\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H11\_Module 1\Théorie 2\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+E:\_Cours 206-H11\_Module 1\Théorie 2\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+E:\_Cours 206-H11\_Module 1\Théorie 2\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H11\_Module 1\Théorie 2\F Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H11\_Module 1\Théorie 2\X Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+E:\_Cours 206-H11\_Module 1\Théorie 2\X Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+E:\_Cours 206-H11\_Module 1\Théorie 2\X Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+E:\_Cours 206-H11\_Module 1\Théorie 2\X Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+E:\_Cours 206-H11\_Module 1\Théorie 2\X Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H11\_Module 1\Théorie 2\X Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+E:\_Cours 206-H11\_Module 1\Théorie 2\X Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+E:\_Cours 206-H11\_Module 1\Théorie 2\X Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H11\_Module 1\Théorie 2\X Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie02\Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie02\Exer Liste et Fichier\Sol_Exer_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+K:\_Mes Cours\_420-206 H11\Module 1\Théorie02\Theo02_Exer3_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+K:\_Mes Cours\_420-206 H11\Module 1\Théorie02\Theo02_Exer3_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+K:\_Mes Cours\_420-206 H11\Module 1\Théorie02\Theo02_Exer3_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+K:\_Mes Cours\_420-206 H11\Module 1\Théorie02\Theo02_Exer3_ListeEtFichier\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+K:\_Mes Cours\_420-206 H11\Module 1\Théorie02\Theo02_Exer3_ListeEtFichier\ListeEtFichier\obj\Debug\ResolveAssemblyReference.cache
+K:\_Mes Cours\_420-206 H11\Module 1\Théorie02\Theo02_Exer3_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+K:\_Mes Cours\_420-206 H11\Module 1\Théorie02\Theo02_Exer3_ListeEtFichier\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+K:\_Mes Cours\_420-206 H11\Module 1\Théorie02\Theo02_Exer3_ListeEtFichier\ListeEtFichier\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\_Mes Cours\_420-206 H11\Module 1\Théorie02\Theo02_Exer3_ListeEtFichier\ListeEtFichier\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\_Mes Cours\_420-206 H12\Mod 1\Theo 02 Kit-V2.0\Theo02_Exer3_ListeGenerique(Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+J:\_Mes Cours\_420-206 H12\Mod 1\Theo 02 Kit-V2.0\Theo02_Exer3_ListeGenerique(Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+J:\_Mes Cours\_420-206 H12\Mod 1\Theo 02 Kit-V2.0\Theo02_Exer3_ListeGenerique(Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+J:\_Mes Cours\_420-206 H12\Mod 1\Theo 02 Kit-V2.0\Theo02_Exer3_ListeGenerique(Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+J:\_Mes Cours\_420-206 H12\Mod 1\Theo 02 Kit-V2.0\Theo02_Exer3_ListeGenerique(Solution)\ListeEtFichier\obj\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\_420-206 H12\Mod 1\Theo 02 Kit-V2.0\Theo02_Exer3_ListeGenerique(Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+J:\_Mes Cours\_420-206 H12\Mod 1\Theo 02 Kit-V2.0\Theo02_Exer3_ListeGenerique(Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+J:\_Mes Cours\_420-206 H12\Mod 1\Theo 02 Kit-V2.0\Theo02_Exer3_ListeGenerique(Solution)\ListeEtFichier\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\_Mes Cours\_420-206 H12\Mod 1\Theo 02 Kit-V2.0\Theo02_Exer3_ListeGenerique(Solution)\ListeEtFichier\obj\Debug\ResGen.read.1.tlog
+J:\_Mes Cours\_420-206 H12\Mod 1\Theo 02 Kit-V2.0\Theo02_Exer3_ListeGenerique(Solution)\ListeEtFichier\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\_Mes Cours\_420-206 H12\Mod 1\Theo 02 Kit-V2.0\Theo02_Exer3_ListeGenerique(Solution)\ListeEtFichier\obj\Debug\ResGen.write.1.tlog
+C:\Users\Paul\Desktop\R02 Revision (Solution) v1.0\R02 Revision (Solution) v1.0\R02_Exer3_ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+C:\Users\Paul\Desktop\R02 Revision (Solution) v1.0\R02 Revision (Solution) v1.0\R02_Exer3_ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+C:\Users\Paul\Desktop\R02 Revision (Solution) v1.0\R02 Revision (Solution) v1.0\R02_Exer3_ListeGenerique (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+C:\Users\Paul\Desktop\R02 Revision (Solution) v1.0\R02 Revision (Solution) v1.0\R02_Exer3_ListeGenerique (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+C:\Users\Paul\Desktop\R02 Revision (Solution) v1.0\R02 Revision (Solution) v1.0\R02_Exer3_ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\R02 Revision (Solution) v1.0\R02 Revision (Solution) v1.0\R02_Exer3_ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+C:\Users\Paul\Desktop\R02 Revision (Solution) v1.0\R02 Revision (Solution) v1.0\R02_Exer3_ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+C:\Users\Paul\Desktop\R02 Revision (Solution) v1.0\R02 Revision (Solution) v1.0\R02_Exer3_ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+F:\__Cours\_420-206 H14\R01\Exer5_ListeGenerique (Sol)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+F:\__Cours\_420-206 H14\R01\Exer5_ListeGenerique (Sol)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+F:\__Cours\_420-206 H14\R01\Exer5_ListeGenerique (Sol)\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+F:\__Cours\_420-206 H14\R01\Exer5_ListeGenerique (Sol)\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+F:\__Cours\_420-206 H14\R01\Exer5_ListeGenerique (Sol)\ListeEtFichier\obj\Debug\ListeEtFichier.csprojResolveAssemblyReference.cache
+F:\__Cours\_420-206 H14\R01\Exer5_ListeGenerique (Sol)\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+F:\__Cours\_420-206 H14\R01\Exer5_ListeGenerique (Sol)\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+F:\__Cours\_420-206 H14\R01\Exer5_ListeGenerique (Sol)\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex5 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex5 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex5 ListeGenerique (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex5 ListeGenerique (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex5 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csprojResolveAssemblyReference.cache
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex5 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex5 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex5 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+G:\__Cours\420-206 H14\R01 Revision, Split et Parse (Solution) v1.0\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+G:\__Cours\420-206 H14\R01 Revision, Split et Parse (Solution) v1.0\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+E:\__Cours\420-206 H14\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+E:\__Cours\420-206 H14\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+F:\__Cours\_420-206 H15\_420-206 H14(final)\Module 1\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+F:\__Cours\_420-206 H15\_420-206 H14(final)\Module 1\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+F:\__Cours\_420-206 H15\Module 1\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+F:\__Cours\_420-206 H15\Module 1\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+F:\__Cours\_420-206 H15\Module 1\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+F:\__Cours\_420-206 H15\Module 1\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+F:\__Cours\_420-206 H15\Module 1\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csprojResolveAssemblyReference.cache
+F:\__Cours\_420-206 H15\Module 1\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+F:\__Cours\_420-206 H15\Module 1\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+F:\__Cours\_420-206 H15\Module 1\R01 Revision, Split et Parse (Solution) v1.2\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+F:\__Cours\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1.0\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+F:\__Cours\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1.0\Ex3 ListeGenerique (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex5 Liste Generique fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex5 Liste Generique fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex5 Liste Generique fichier NAS (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex5 Liste Generique fichier NAS (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex5 Liste Generique fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex5 Liste Generique fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex5 Liste Generique fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+G:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.0.9\Ex5 Liste Generique fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+E:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1\Ex5 Liste Generique fichier NAS (Solution) H15.1.0\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+E:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1\Ex5 Liste Generique fichier NAS (Solution) H15.1.0\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+E:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1\Ex5 Liste Generique fichier NAS (Solution) H15.1.0\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+E:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1\Ex5 Liste Generique fichier NAS (Solution) H15.1.0\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+E:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1\Ex5 Liste Generique fichier NAS (Solution) H15.1.0\ListeEtFichier\obj\Debug\ListeEtFichier.csprojResolveAssemblyReference.cache
+E:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1\Ex5 Liste Generique fichier NAS (Solution) H15.1.0\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+E:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1\Ex5 Liste Generique fichier NAS (Solution) H15.1.0\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+E:\_420-206 H15\Module 1\R01 Revision et liste générique (Solutions) H15.1\Ex5 Liste Generique fichier NAS (Solution) H15.1.0\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex5 Liste Generique fichier NAS (Sol) H15.1.0.1\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex5 Liste Generique fichier NAS (Sol) H15.1.0.1\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex5 Liste Generique fichier NAS (Sol) H15.1.0.1\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex5 Liste Generique fichier NAS (Sol) H15.1.0.1\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex5 Liste Generique fichier NAS (Sol) H15.1.0.1\ListeEtFichier\obj\Debug\ListeEtFichier.csprojResolveAssemblyReference.cache
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex5 Liste Generique fichier NAS (Sol) H15.1.0.1\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex5 Liste Generique fichier NAS (Sol) H15.1.0.1\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+G:\_420-206 A16\Module 1\R01 Revision et lst gén (Sol) H16.0\Ex5 Liste Generique fichier NAS (Sol) H15.1.0.1\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csprojResolveAssemblyReference.cache
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.0\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.1\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.1\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.1\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.1\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.1\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csprojResolveAssemblyReference.cache
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.1\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.1\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+G:\Hiv2018\206_18\R02 Liste generique\Nouveau dossier\R02 Liste generique (Solution) H18.1.1\Ex5 Liste gén. fichier NAS (Solution)\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.Cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex5 Collection de Personnes\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex5 Collection de Personnes\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex5 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex5 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex5 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex5 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex5 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex5 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+F:\_Cours 2N6 H20\R01 Liste générique\R01 Liste generique (Solution) H20.1.0\Ex5 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex4 Collection de Personnes\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex4 Collection de Personnes\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+J:\H21 2N6 Les Capsules\R01 Liste générique\_Code C#\R01 Liste generique (Solution) H21.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\H22\2N6\R01 Liste generique (Solution) H22.1.0\Ex4 Collection de Personnes\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\H22\2N6\R01 Liste generique (Solution) H22.1.0\Ex4 Collection de Personnes\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\H22\2N6\R01 Liste generique (Solution) H22.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.AssemblyReference.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\H22\2N6\R01 Liste generique (Solution) H22.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\H22\2N6\R01 Liste generique (Solution) H22.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\H22\2N6\R01 Liste generique (Solution) H22.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\H22\2N6\R01 Liste generique (Solution) H22.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\H22\2N6\R01 Liste generique (Solution) H22.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\H22\2N6\R01 Liste generique (Solution) H22.1.0\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.1\Ex4 Collection de Personnes\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.1\Ex4 Collection de Personnes\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.1\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.1\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.1\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.1\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.1\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.1\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.1\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex4 Collection de Personnes\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex4 Collection de Personnes\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+C:\Users\stephane.desmeules\Downloads\R01 Liste generique (Solution) H22.1.2\Ex4 Collection de Personnes\ListeEtFichier\obj\Debug\ListeEtFichier.pdb

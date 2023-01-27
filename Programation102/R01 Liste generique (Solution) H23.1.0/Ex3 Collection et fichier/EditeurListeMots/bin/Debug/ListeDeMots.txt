@@ -1,0 +1,7 @@
+autobus
+automobile
+avion
+camion
+métro
+train
+allo

@@ -1,0 +1,79 @@
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppBaladeur\obj\Debug\AppMusique.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppBaladeur\obj\Debug\AppBaladeurDemo.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppBaladeur\obj\Debug\AppMusique.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppBaladeur\obj\Debug\AppMusique.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppBaladeur\obj\Debug\AppMusique.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppBaladeur\bin\Debug\AppMusique.exe.config
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppBaladeur\bin\Debug\AppMusique.exe
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppBaladeur\bin\Debug\AppMusique.pdb
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppBaladeur\obj\Debug\AppMusique.exe
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppBaladeur\obj\Debug\AppMusique.pdb
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppMusique\bin\Debug\AppMusique.exe.config
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppMusique\bin\Debug\AppMusique.exe
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppMusique\bin\Debug\AppMusique.pdb
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppMusique\obj\Debug\AppDeMusique.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppMusique\obj\Debug\AppMusique.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppMusique\obj\Debug\AppMusique.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppMusique\obj\Debug\AppMusique.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppMusique\obj\Debug\AppMusique.exe
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Solution) H21.1.0\AppMusique\obj\Debug\AppMusique.pdb
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe.config
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.pdb
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppDeMusique.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.exe
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.pdb
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.1\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe.config
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.1\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.1\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.pdb
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.1\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.1\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppDeMusique.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.1\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.1\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.1\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.1\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.exe
+J:\H21 2N6 Les Capsules\R02 Travail Pratique #1\_Code C#\R02 Tp1 AppMusique (Matériel) H21.1.1\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.pdb
+C:\Users\chant\Desktop\H21_2N6\Module 1\R02 TP1\R02 Tp1 AppMusique (Matériel) H21.1.3\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe.config
+C:\Users\chant\Desktop\H21_2N6\Module 1\R02 TP1\R02 Tp1 AppMusique (Matériel) H21.1.3\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe
+C:\Users\chant\Desktop\H21_2N6\Module 1\R02 TP1\R02 Tp1 AppMusique (Matériel) H21.1.3\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.pdb
+C:\Users\chant\Desktop\H21_2N6\Module 1\R02 TP1\R02 Tp1 AppMusique (Matériel) H21.1.3\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csprojAssemblyReference.cache
+C:\Users\chant\Desktop\H21_2N6\Module 1\R02 TP1\R02 Tp1 AppMusique (Matériel) H21.1.3\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppDeMusique.FrmPrincipal.resources
+C:\Users\chant\Desktop\H21_2N6\Module 1\R02 TP1\R02 Tp1 AppMusique (Matériel) H21.1.3\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.Properties.Resources.resources
+C:\Users\chant\Desktop\H21_2N6\Module 1\R02 TP1\R02 Tp1 AppMusique (Matériel) H21.1.3\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.GenerateResource.cache
+C:\Users\chant\Desktop\H21_2N6\Module 1\R02 TP1\R02 Tp1 AppMusique (Matériel) H21.1.3\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.CoreCompileInputs.cache
+C:\Users\chant\Desktop\H21_2N6\Module 1\R02 TP1\R02 Tp1 AppMusique (Matériel) H21.1.3\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.exe
+C:\Users\chant\Desktop\H21_2N6\Module 1\R02 TP1\R02 Tp1 AppMusique (Matériel) H21.1.3\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.pdb
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H21.1.4\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe.config
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H21.1.4\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H21.1.4\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.pdb
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H21.1.4\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H21.1.4\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppDeMusique.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H21.1.4\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H21.1.4\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H21.1.4\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H21.1.4\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.exe
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H21.1.4\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.pdb
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H22.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe.config
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H22.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H22.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.pdb
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H22.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H22.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppDeMusique.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H22.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H22.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H22.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H22.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.exe
+C:\Users\stephane.desmeules\Downloads\R02 Tp1 AppMusique (Matériel) H22.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe.config
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppDeMusique.FrmPrincipal.resources
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.Properties.Resources.resources
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.pdb
