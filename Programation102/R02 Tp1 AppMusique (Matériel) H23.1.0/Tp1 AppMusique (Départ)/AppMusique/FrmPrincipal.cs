@@ -188,7 +188,8 @@ namespace AppDeMusique
         private void mnuOpérationSupprimer_Click(object sender, EventArgs e)
         {
             // À COMPLÉTER...
-        lstMorceaux.Items.Remove(lstMorceaux.SelectedIndex); ////???????????????????????????????????????
+
+
         }
         #endregion
 
@@ -205,6 +206,8 @@ namespace AppDeMusique
         private void FrmPrincipal_FormClosing(object sender, FormClosingEventArgs e)
         {
             // À COMPLÉTER...
+            StreamWriter objStreamWriter = new StreamWriter(LISTE_DE_LECTURE);
+            
         }
         //==========================================================================================
         private void mnuFichierQuitter_Click(object sender, EventArgs e)
