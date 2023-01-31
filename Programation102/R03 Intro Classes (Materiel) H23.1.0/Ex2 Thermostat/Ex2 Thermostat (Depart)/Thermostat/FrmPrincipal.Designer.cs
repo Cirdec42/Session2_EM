@@ -84,6 +84,7 @@
             this.lblTemperature.TabIndex = 2;
             this.lblTemperature.Text = "00";
             this.lblTemperature.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblTemperature.Click += new System.EventHandler(this.lblTemperature_Click);
             // 
             // mnuPrincipal
             // 

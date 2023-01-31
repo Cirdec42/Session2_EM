@@ -133,3 +133,13 @@ C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\E
 C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.CoreCompileInputs.cache
 C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
 C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe.config
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb

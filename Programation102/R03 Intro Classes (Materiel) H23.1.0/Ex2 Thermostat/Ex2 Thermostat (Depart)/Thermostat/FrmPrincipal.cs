@@ -12,7 +12,7 @@ namespace Thermostat
         /// </summary>
         /// ----------------------------------------------------------------------------------
        // TODO 02 : Déclarer une variable membre privée nommée m_objThermostat de type Thermostat
-
+       private 
         
         //====================================================================================
         public FrmPrincipal()
@@ -94,6 +94,11 @@ namespace Thermostat
         private void mnuFichierQuitter_Click(object sender, System.EventArgs e)
         {
             Close();
+        }
+
+        private void lblTemperature_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
