@@ -1,0 +1,168 @@
+N:\A08-106\7-Classes A07\Exercices\Solution Exercices\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+N:\A08-106\7-Classes A07\Exercices\Solution Exercices\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+N:\A08-106\7-Classes A07\Exercices\Solution Exercices\Exer3_ApplicationParcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+N:\A08-106\7-Classes A07\Exercices\Solution Exercices\Exer3_ApplicationParcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+N:\A08-106\7-Classes A07\Exercices\Solution Exercices\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ResolveAssemblyReference.cache
+N:\A08-106\7-Classes A07\Exercices\Solution Exercices\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+N:\A08-106\7-Classes A07\Exercices\Solution Exercices\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+N:\A08-106\7-Classes A07\Exercices\Solution Exercices\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.GenerateResource.Cache
+N:\A08-106\7-Classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+N:\A08-106\7-Classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+N:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+N:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+N:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+N:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+N:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+N:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+N:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.GenerateResource.Cache
+E:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+E:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+E:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+E:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ResolveAssemblyReference.cache
+E:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+E:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+E:\206 H10\02-Intro aux classes\Exercices\Solution Exercices 1 à 4\Exer3_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.GenerateResource.Cache
+E:\206 H10\02-Intro aux classes\ExerD_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+E:\206 H10\02-Intro aux classes\ExerD_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\206 H10\02-Intro aux classes\ExerD_ApplicationParcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+E:\206 H10\02-Intro aux classes\ExerD_ApplicationParcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+E:\206 H10\02-Intro aux classes\ExerD_ApplicationParcometre\ApplicationParcometre\obj\Debug\ResolveAssemblyReference.cache
+E:\206 H10\02-Intro aux classes\ExerD_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+E:\206 H10\02-Intro aux classes\ExerD_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+E:\206 H10\02-Intro aux classes\ExerD_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.GenerateResource.Cache
+E:\206 H10\02-Intro aux classes\Exercice Parcometre\Sol_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+E:\206 H10\02-Intro aux classes\Exercice Parcometre\Sol_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerD_ Parcometre\Sol_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerD_ Parcometre\Sol_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerD_ Parcometre vs2010\Sol_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerD_ Parcometre vs2010\Sol_ApplicationParcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\_Cours 206-H13\R04 Intro Classes v0.9\ExerD_Parcometre\Theo03_ExerD_AppParcometre (Solution) v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+E:\_Cours 206-H13\R04 Intro Classes v0.9\ExerD_Parcometre\Theo03_ExerD_AppParcometre (Solution) v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\_Cours 206-H13\R04 Intro Classes v0.9\ExerD_Parcometre\Theo03_ExerD_AppParcometre (Solution) v1.0\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+E:\_Cours 206-H13\R04 Intro Classes v0.9\ExerD_Parcometre\Theo03_ExerD_AppParcometre (Solution) v1.0\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+E:\_Cours 206-H13\R04 Intro Classes v0.9\ExerD_Parcometre\Theo03_ExerD_AppParcometre (Solution) v1.0\ApplicationParcometre\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H13\R04 Intro Classes v0.9\ExerD_Parcometre\Theo03_ExerD_AppParcometre (Solution) v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+E:\_Cours 206-H13\R04 Intro Classes v0.9\ExerD_Parcometre\Theo03_ExerD_AppParcometre (Solution) v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+E:\_Cours 206-H13\R04 Intro Classes v0.9\ExerD_Parcometre\Theo03_ExerD_AppParcometre (Solution) v1.0\ApplicationParcometre\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H13\R04 Intro Classes v0.9\ExerD_Parcometre\Theo03_ExerD_AppParcometre (Solution) v1.0\ApplicationParcometre\obj\Debug\ResGen.write.1.tlog
+C:\Backup A12\H13 206\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+C:\Backup A12\H13 206\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+C:\Backup A12\H13 206\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+C:\Backup A12\H13 206\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+C:\Backup A12\H13 206\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ResolveAssemblyReference.cache
+C:\Backup A12\H13 206\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+C:\Backup A12\H13 206\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+C:\Backup A12\H13 206\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ResGen.read.1.tlog
+C:\Backup A12\H13 206\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ResGen.write.1.tlog
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ResolveAssemblyReference.cache
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ResGen.read.1.tlog
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerE_Parcometre v1.0\ApplicationParcometre\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.1\ExerE_Parcometre v1.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.1\ExerE_Parcometre v1.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.1\ExerE_Parcometre v1.1\ApplicationParcometre\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.1\ExerE_Parcometre v1.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.1\ExerE_Parcometre v1.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.1\ExerE_Parcometre v1.1\ApplicationParcometre\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.1\ExerE_Parcometre v1.1\ApplicationParcometre\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.1\ExerE_Parcometre v1.1\ApplicationParcometre\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.1\ExerE_Parcometre v1.1\ApplicationParcometre\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.1\ExerE_Parcometre v1.1\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.1\ExerE_Parcometre v1.1\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H13\_Module #1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ResGen.write.1.tlog
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ResolveAssemblyReference.cache
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ResGen.read.1.tlog
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerE_Parcometre v2.0\ApplicationParcometre\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.GenerateResource.Cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\obj\Debug\ApplicationParcometre.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.GenerateResource.Cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExE Parcometre (Solution)\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExE Parcometre (Solution) H15.1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExE Parcometre (Solution) H15.1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+G:\_420-206 A16\Module 1\R03 Intro Classes (Sol) H15.1.2\ExE Parcometre (Solution) H15.1.0.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+G:\_420-206 A16\Module 1\R03 Intro Classes (Sol) H15.1.2\ExE Parcometre (Solution) H15.1.0.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExE Parcometre (Solution) H15.1.0.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExE Parcometre (Solution) H15.1.0.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExE Parcometre (Solution) H15.1.0.1\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExE Parcometre (Solution) H15.1.0.1\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExE Parcometre (Solution) H15.1.0.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.csprojResolveAssemblyReference.cache
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExE Parcometre (Solution) H15.1.0.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExE Parcometre (Solution) H15.1.0.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExE Parcometre (Solution) H15.1.0.1\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.GenerateResource.Cache
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExE Parcometre (Solution) H16.1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExE Parcometre (Solution) H16.1.0\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex4 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex4 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex4 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex4 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex4 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex4 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex4 Parcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex4 Parcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex5 Parcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex5 Parcometre\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex5 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex5 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex5 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex5 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex5 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex5 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex5 Parcometre\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe.config
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe.config
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\bin\Debug\ApplicationParcometre.exe
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\bin\Debug\ApplicationParcometre.pdb
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.exe
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex5 Parcometre\Ex5 Parcometre (Depart)\ApplicationParcometre\obj\Debug\ApplicationParcometre.pdb

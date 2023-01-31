@@ -1,0 +1,135 @@
+E:\_Cours 206-H13\R04 Intro Classes v0.9\AppCompteurHydro\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+E:\_Cours 206-H13\R04 Intro Classes v0.9\AppCompteurHydro\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+E:\_Cours 206-H13\R04 Intro Classes v0.9\AppCompteurHydro\AppCompteurHydro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H13\R04 Intro Classes v0.9\AppCompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+E:\_Cours 206-H13\R04 Intro Classes v0.9\AppCompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+E:\_Cours 206-H13\R04 Intro Classes v0.9\AppCompteurHydro\AppCompteurHydro\obj\x86\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H13\R04 Intro Classes v0.9\AppCompteurHydro\AppCompteurHydro\obj\x86\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H13\R04 Intro Classes v0.9\AppCompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+E:\_Cours 206-H13\R04 Intro Classes v0.9\AppCompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+E:\_Cours 206-H13\R04 Intro Classes v0.9\Exer0_AppCompteurHydro v1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+E:\_Cours 206-H13\R04 Intro Classes v0.9\Exer0_AppCompteurHydro v1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerA_CompteurHydro v1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerA_CompteurHydro v1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerA_CompteurHydro v1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerA_CompteurHydro v1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerA_CompteurHydro v1.0\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerA_CompteurHydro v1.0\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerA_CompteurHydro v1.0\AppCompteurHydro\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerA_CompteurHydro v1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerA_CompteurHydro v1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerA_CompteurHydro v1.0\AppCompteurHydro\obj\x86\Debug\ResGen.read.1.tlog
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerA_CompteurHydro v1.0\AppCompteurHydro\obj\x86\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Materiel) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Materiel) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Materiel) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Materiel) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Materiel) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csprojResolveAssemblyReference.cache
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Materiel) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Materiel) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Materiel) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.Cache
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csprojResolveAssemblyReference.cache
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.Cache
+E:\__Cours\420-206 H14\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+E:\__Cours\420-206 H14\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+G:\__Cours\420-206 H14\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+G:\__Cours\420-206 H14\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.Cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)H15.1\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExA CompteurHydro (Solution)H15.1\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.0\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.0\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csprojResolveAssemblyReference.cache
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.Cache
+G:\_420-206 A16\Module 1\R03 Intro Classes (Sol) H15.1.2\ExA1 CompteurHydro (Sol) H15.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+G:\_420-206 A16\Module 1\R03 Intro Classes (Sol) H15.1.2\ExA1 CompteurHydro (Sol) H15.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.16\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.16\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.16\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.16\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.16\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csprojResolveAssemblyReference.cache
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.16\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.16\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExA1 CompteurHydro (Solution) H15.1.16\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.Cache
+I:\_Cours 206 H18\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExA1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+I:\_Cours 206 H18\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExA1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+I:\_Cours 206 H18\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExA1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+I:\_Cours 206 H18\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExA1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+I:\_Cours 206 H18\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExA1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csprojResolveAssemblyReference.cache
+I:\_Cours 206 H18\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExA1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+I:\_Cours 206 H18\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExA1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+I:\_Cours 206 H18\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExA1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.Cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20\Ex1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20\Ex1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20\Ex1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20\Ex1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20\Ex1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20\Ex1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20\Ex1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20\Ex1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20\Ex1 CompteurHydro (Solution) H16.1.0\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex1 CompteurHydro\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex1 CompteurHydro\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex1 CompteurHydro\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex1 CompteurHydro\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Materiel) H20.2.0\Ex1 CompteurHydro\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe.config
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.1\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe.config
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.1\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.1\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.1\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.1\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.1\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.1\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.1\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.1\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+J:\H21 2N6 Les Capsules\R03 Introduction aux Classes\_Code C#\R03 Intro Classes (Materiel) H21.1.1\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe.config
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.exe
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\bin\Debug\AppCompteurHydro.pdb
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.exe
+C:\Users\stephane.desmeules\Downloads\R03\R03 Intro Classes (Materiel) H23.1.0\Ex1 CompteurHydro\Ex1 CompteurHydro (Depart)\AppCompteurHydro\obj\x86\Debug\AppCompteurHydro.pdb

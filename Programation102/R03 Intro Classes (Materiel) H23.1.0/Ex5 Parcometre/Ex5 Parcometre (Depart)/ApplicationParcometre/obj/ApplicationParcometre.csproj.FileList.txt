@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ApplicationParcometre.Properties.Resources.resources
+obj\Debug\ApplicationParcometre.csproj.GenerateResource.Cache
+bin\Debug\ApplicationParcometre.exe
+bin\Debug\ApplicationParcometre.pdb
+obj\Debug\ApplicationParcometre.exe
+obj\Debug\ApplicationParcometre.pdb
+obj\Debug\ApplicationParcometre.FrmPrincipal.resources
