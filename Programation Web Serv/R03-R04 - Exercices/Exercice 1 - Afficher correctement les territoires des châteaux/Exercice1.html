@@ -1,0 +1,71 @@
+<html>
+
+<head>
+    <title>Exercice 1</title>
+    <meta charset="UTF-8" />
+    <style>
+        body {
+            background-color: grey;
+            font-family: 'Comic Sans MS';
+        }
+
+        .chateau1 {
+            width: 100px;
+            height: 100px;
+        }
+
+        .chateau2 {
+            width: 200px;
+            height: 200px;
+        }
+
+        /* À faire: Ajoutez les propriétés manquantes pour le territoire1 et le territoire2 pour qu'ils soient pareil à la solutions
+            voir ici-bas quelques indices*/
+
+        /*
+            Territoire 1:
+            - Une longeur de 500px
+            - Une couleur de fond de rgb(12, 112, 12);
+            - La  frontère/bordure de son territoire est noir de 3px (dashed)
+            - Il y a une distance de 30px entre les limites du chateau1 et sa frontière
+            - Il y a 20px de distance (marge de 20 pixels) entre le territoire1 et le territoire2
+        */
+
+        .territoire1 {
+            /* TODO */
+        }
+
+        /*
+            Territoire 2:
+            - Une couleur de fond de rgb(63, 32, 32);
+            - La frontière de son territoire est noir de 10px et a les coins sont arrondis de 15px (dotted)
+            - Il y a une distance de 500px entre le côté gauche de la carte et le début du territoire du chateau2
+            - Il y a une distance de 100px entre les limites du chateau2 et sa frontière
+            - Le territoire devrait mesurer au total 420px de hauteur et de largeur en comprenant : 
+                - Le contenu (???px)
+                - Les bordures (10px x 2)
+                - Les marges intérieurs (100px x 2)
+              Vous devez calculer la valeur pour la taille du contenu (le width et le height) en 
+              soustrayant la taille des bordures et des marges intérieurs.
+            - Le chateau2 est centré dans le territoire2
+            */
+
+        .territoire2 {
+            /* TODO */
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="font-size: 1.5em;">Exercice 1 - Le modèle en boîte (border, margin, padding, width, height) <br>et les propriétés min-width, max-width, overflow et text-overflow</h1>
+
+    <div class="territoire1">
+        <img src="images/Chateau1.png" class="chateau1" />
+    </div>
+    <div class="territoire2">
+        <img src="images/Chateau2.png" class="chateau2" />
+    </div>
+
+</body>
+
+</html>

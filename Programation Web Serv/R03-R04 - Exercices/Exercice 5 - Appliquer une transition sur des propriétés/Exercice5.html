@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Pokémon - Affichage responsif</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS';
+            background-color: teal;
+        }
+
+        .conteneurPokemon {
+            border: 1px solid black;
+            display: inline-block;
+            width: 30%;
+            height: 300px;
+            position: relative;
+            cursor: pointer;
+            background-color: rgba(255, 255, 255, 0.25);
+        }
+
+        .nomPokemon {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            padding: 10px;
+            background-color: black;
+            color: white;
+            opacity: 0.7;
+        }
+
+        .descPokemon {
+            padding: 10px;
+            background-color: black;
+            opacity: 0.7;
+            position: absolute;
+            bottom: 10px;
+            margin-left: 10px;
+            margin-right: 10px;
+            height: 100px;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="text-align: center;">Je te choisis !</h1>
+    <div style="text-align: center;">
+        <div class="conteneurPokemon">
+            <div class="nomPokemon">Ouistempo</div>
+            <img src="images/ouistempo.png" alt="Image du pokémon Ouistempo" />
+            <div class="descPokemon">
+                Un Pokémon qui ressemble à un jeune primate, au corps principalement vert avec une queue et des oreilles brunes.
+            </div>
+        </div>
+        <div class="conteneurPokemon">
+            <div class="nomPokemon">Flambino</div>
+            <img src="images/flambino.png" alt="Image du pokémon Flambino" />
+            <div class="descPokemon">
+                Un Pokémon à l’allure lapine et au corps principalement blanc. Il a des marques orange et jaunes sur les oreilles.
+            </div>
+        </div>
+        <div class="conteneurPokemon">
+            <div class="nomPokemon">Larméléon</div>
+            <img src="images/larméléon.png" alt="Image du pokémon Larméléon" />
+            <div class="descPokemon">
+                Un petit Pokémon à la peau bleu clair avec quelques taches plus foncées et un visage et un ventre plus clairs.
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
