@@ -130,7 +130,8 @@ namespace AppDeMusique
                 lblAlbumCourant.Text = m_colMorceaux[lstMorceaux.SelectedIndex].Album;
                 lblArtisteCourant.Text = m_colMorceaux[lstMorceaux.SelectedIndex].Artiste;
                 lblTitreCourant.Text = m_colMorceaux[lstMorceaux.SelectedIndex].Titre;
-                lblDuréeCourante.Text = durée.ToString();
+                //lblDuréeCourante.Text = durée.ToString();
+                lblDuréeCourante.Text = (m_colMorceaux[lstMorceaux.SelectedIndex].Durée/60).ToString() + ':' + (m_colMorceaux[lstMorceaux.SelectedIndex].Durée%60).ToString();
                 lblCote.Text = m_colMorceaux[lstMorceaux.SelectedIndex].Cote.ToString();
                 lblMorceauCourant.Text = lstMorceaux.SelectedIndex + 1 + " / " + lstMorceaux.Items.Count;
                 if (File.Exists("Images/" + m_colMorceaux[lstMorceaux.SelectedIndex].Artiste + "-" + m_colMorceaux[lstMorceaux.SelectedIndex].Album + ".jpg"))
