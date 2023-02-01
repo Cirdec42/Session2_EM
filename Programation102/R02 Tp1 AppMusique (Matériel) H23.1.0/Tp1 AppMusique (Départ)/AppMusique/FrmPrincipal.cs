@@ -95,12 +95,17 @@ namespace AppDeMusique
         public void AfficherListeDeLecture()
         {
             // À COMPLÉTER...
+            lstMorceaux.Items.Clear();
             foreach (Morceau morceau in m_colMorceaux)
             {
                 lstMorceaux.Items.Add(morceau);
 
             }
-            lstMorceaux.SelectedIndex = 0;
+            if (lstMorceaux.Items.Count>0)
+            {
+                lstMorceaux.SelectedIndex = 0;
+            }
+            
         }
         private void LstMorceaux_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -124,26 +129,37 @@ namespace AppDeMusique
         private void AfficherMorceauCourant()
         {
             // À COMPLÉTER...
-            if (lstMorceaux.SelectedIndex­­>-1)
+            if (lstMorceaux.Items.Count > 0)
             {
-                int durée = m_colMorceaux[lstMorceaux.SelectedIndex].Durée / 60 + m_colMorceaux[lstMorceaux.SelectedIndex].Durée % 60;
-                lblAlbumCourant.Text = m_colMorceaux[lstMorceaux.SelectedIndex].Album;
-                lblArtisteCourant.Text = m_colMorceaux[lstMorceaux.SelectedIndex].Artiste;
-                lblTitreCourant.Text = m_colMorceaux[lstMorceaux.SelectedIndex].Titre;
-                //lblDuréeCourante.Text = durée.ToString();
-                lblDuréeCourante.Text = (m_colMorceaux[lstMorceaux.SelectedIndex].Durée/60).ToString() + ':' + (m_colMorceaux[lstMorceaux.SelectedIndex].Durée%60).ToString();
-                lblCote.Text = m_colMorceaux[lstMorceaux.SelectedIndex].Cote.ToString();
-                lblMorceauCourant.Text = lstMorceaux.SelectedIndex + 1 + " / " + lstMorceaux.Items.Count;
-                if (File.Exists("Images/" + m_colMorceaux[lstMorceaux.SelectedIndex].Artiste + "-" + m_colMorceaux[lstMorceaux.SelectedIndex].Album + ".jpg"))
+                int indexSelect = lstMorceaux.SelectedIndex;
+                Morceau unMorceau = m_colMorceaux[indexSelect];
+                int durée = unMorceau.Durée / 60 + unMorceau.Durée % 60;
+                lblAlbumCourant.Text = unMorceau.Album;
+                lblArtisteCourant.Text = unMorceau.Artiste;
+                lblTitreCourant.Text = unMorceau.Titre;
+                lblDuréeCourante.Text = (unMorceau.Durée / 60).ToString("00") + ':' + (unMorceau.Durée % 60).ToString("00");
+                lblCote.Text = unMorceau.Cote.ToString() + "/5";
+                lblMorceauCourant.Text = indexSelect + 1 + " / " + lstMorceaux.Items.Count;
+                if (File.Exists("Images/" + unMorceau.Artiste + "-" + unMorceau.Album + ".jpg"))
                 {
-                    picAlbum.Image = Image.FromFile("Images/" + m_colMorceaux[lstMorceaux.SelectedIndex].Artiste + "-" + m_colMorceaux[lstMorceaux.SelectedIndex].Album + ".jpg");
+                    picAlbum.Image = Image.FromFile("Images/" + unMorceau.Artiste + "-" + unMorceau.Album + ".jpg");
                 }
                 else
                 {
                     picAlbum.Image = Image.FromFile("Images/Sans image.jpg");
                 }
             }
-            
+            else
+            {
+                lblAlbumCourant.Text = null;
+                lblArtisteCourant.Text = null;
+                lblTitreCourant.Text = null;
+                lblDuréeCourante.Text = null;
+                lblCote.Text = null;
+                lblMorceauCourant.Text = null;
+                picAlbum.Image = null;
+            }
+
 
         }
         #endregion
@@ -159,24 +175,8 @@ namespace AppDeMusique
             // À COMPLÉTER...
             m_colMorceaux.Clear();
             lstMorceaux.Items.Clear();
-            StreamReader objStreamReader = new StreamReader(BIBLIOTHEQUE);
-            while (!objStreamReader.EndOfStream)
-            {
-                string uneLigneLue = objStreamReader.ReadLine();
-                string[] tabInfos = uneLigneLue.Split('|');
-                String[] temps = tabInfos[4].Split(':');
-                int seconde = Int16.Parse(temps[0]) * 60 + Int16.Parse(temps[1]);
-                Morceau unMorceau = new Morceau(tabInfos[0], tabInfos[1], tabInfos[2], Int16.Parse(tabInfos[3]), seconde);
-                m_colMorceaux.Add(unMorceau);
-            }
-            objStreamReader.Close();
-            int cpt = 0;
-            foreach (var morceau in m_colMorceaux)
-            {
-                lstMorceaux.Items.Add(m_colMorceaux[cpt].Titre + " par " + m_colMorceaux[cpt].Artiste);
-                cpt++;
-            }
-            lstMorceaux.SelectedIndex = 0;
+            ChargerMorceaux(BIBLIOTHEQUE);
+            AfficherListeDeLecture();
 
         }
         #endregion
@@ -193,25 +193,19 @@ namespace AppDeMusique
             // À COMPLÉTER...
 
 
-
-            if (m_colMorceaux.Count ==1)
+            //Partie Supprimer l'index collection & afficher
+            int index = lstMorceaux.SelectedIndex;
+            if (lstMorceaux.Items.Count > 0)
             {
-                mnuOpérationSupprimer.Enabled = false;
-                lstMorceaux.SelectedIndex = -1;
-            }
-            else
-            {
-                int index = lstMorceaux.SelectedIndex;
                 m_colMorceaux.RemoveAt(index);
-                lstMorceaux.Items.Clear();
-                foreach (Morceau morceau in m_colMorceaux)
-                {
-                    lstMorceaux.Items.Add(morceau);
-
-                }
-                lstMorceaux.SelectedIndex = 0;;
-
             }
+            AfficherListeDeLecture();
+            //Partie Condition Index (Si on select la dernière piste)
+            if (lstMorceaux.Items.Count-1 < index)
+            {
+            lstMorceaux.SelectedIndex = lstMorceaux.Items.Count-1;
+            }
+            AfficherMorceauCourant();
 
 
 
