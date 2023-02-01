@@ -77,3 +77,14 @@ C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matéri
 C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.CoreCompileInputs.cache
 C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.exe
 C:\Users\2132903\Desktop\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.pdb
+C:\Users\cedri\OneDrive\Bureau\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe.config
+C:\Users\cedri\OneDrive\Bureau\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.exe
+C:\Users\cedri\OneDrive\Bureau\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\bin\Debug\AppMusique.pdb
+C:\Users\cedri\OneDrive\Bureau\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.AssemblyReference.cache
+C:\Users\cedri\OneDrive\Bureau\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.SuggestedBindingRedirects.cache
+C:\Users\cedri\OneDrive\Bureau\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppDeMusique.FrmPrincipal.resources
+C:\Users\cedri\OneDrive\Bureau\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.Properties.Resources.resources
+C:\Users\cedri\OneDrive\Bureau\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.GenerateResource.cache
+C:\Users\cedri\OneDrive\Bureau\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.csproj.CoreCompileInputs.cache
+C:\Users\cedri\OneDrive\Bureau\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.exe
+C:\Users\cedri\OneDrive\Bureau\Session2_EM\Programation102\R02 Tp1 AppMusique (Matériel) H23.1.0\Tp1 AppMusique (Départ)\AppMusique\obj\Debug\AppMusique.pdb
