@@ -226,7 +226,18 @@ namespace AppDeMusique
         private void FrmPrincipal_FormClosing(object sender, FormClosingEventArgs e)
         {
             // À COMPLÉTER...
-            //StreamWriter objStreamWriter = new StreamWriter(LISTE_DE_LECTURE);
+            StreamWriter writer = new StreamWriter(LISTE_DE_LECTURE);
+            foreach (Morceau morceau in m_colMorceaux)
+            {
+                string artiste = morceau.Artiste;
+                string titre = morceau.Titre;
+                string album = morceau.Album;
+                int cote = morceau.Cote;
+                string min = (morceau.Durée / 60).ToString("00");
+                string sec = (morceau.Durée% 60).ToString("00");
+                writer.WriteLine("{0}|{1}|{2}|{3}|{4}:{5}", artiste, album, titre, cote, min, sec);
+            }
+            writer.Close();
             
         }
         //==========================================================================================
@@ -259,7 +270,6 @@ namespace AppDeMusique
                 int random2 = m_objRandom.Next(0, lstMorceaux.Items.Count);
                 m_colMorceaux[random] = m_colMorceaux[random2];
                 m_colMorceaux[random2] = morceauAléatoire;
-
             }
             AfficherListeDeLecture();
 
