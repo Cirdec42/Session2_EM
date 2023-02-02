@@ -251,6 +251,20 @@ namespace AppDeMusique
         private void mnuOpérationMélanger_Click(object sender, EventArgs e)
         {
             // À COMPLÉTER...
+
+            for (int y = 0; y < ((lstMorceaux.Items.Count+1)*4); y++)
+            {
+                int random = m_objRandom.Next(0, lstMorceaux.Items.Count);
+                Morceau morceauAléatoire = m_colMorceaux[random];
+                int random2 = m_objRandom.Next(0, lstMorceaux.Items.Count);
+                m_colMorceaux[random] = m_colMorceaux[random2];
+                m_colMorceaux[random2] = morceauAléatoire;
+
+            }
+            AfficherListeDeLecture();
+
+
+
         }
         #endregion
 
