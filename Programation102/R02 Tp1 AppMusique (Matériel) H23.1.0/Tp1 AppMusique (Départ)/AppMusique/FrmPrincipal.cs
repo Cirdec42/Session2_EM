@@ -111,6 +111,7 @@ namespace AppDeMusique
         {
             // NE PAS MODIFIER
             AfficherMorceauCourant();
+            MettreAJourSelonContexte();
         }
         #endregion
 
@@ -206,6 +207,7 @@ namespace AppDeMusique
             lstMorceaux.SelectedIndex = lstMorceaux.Items.Count-1;
             }
             AfficherMorceauCourant();
+            MettreAJourSelonContexte();
 
 
 
@@ -272,6 +274,7 @@ namespace AppDeMusique
                 m_colMorceaux[random2] = morceauAléatoire;
             }
             AfficherListeDeLecture();
+            MettreAJourSelonContexte();
 
 
 
@@ -305,6 +308,7 @@ namespace AppDeMusique
                     lstMorceaux.SelectedIndex=0;
                 }
             }
+            MettreAJourSelonContexte();
             
         }
         #endregion
@@ -319,6 +323,20 @@ namespace AppDeMusique
         private void MettreAJourSelonContexte()
         {
             // À COMPLÉTER...
+            if (lstMorceaux.Items.Count == 0)
+            {
+                mnuOpérationMeilleursMorceaux.Enabled = false;
+                mnuOpérationMélanger.Enabled = false;
+                mnuOpérationSupprimer.Enabled = false;
+
+            }
+            if (lstMorceaux.Items.Count>0)
+            {
+                mnuOpérationMeilleursMorceaux.Enabled = true;
+                mnuOpérationMélanger.Enabled = true;
+                mnuOpérationSupprimer.Enabled = true;
+
+            }
         }
         #endregion
 
