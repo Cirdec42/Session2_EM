@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+/* RÈGLES POUR LES TÉLÉPHONES DE TAILLE EXTRA PETIT (moins de 576px)
+   ET RÈGLES SERVANT ÉGALEMENT POUR DÉFINIR LES VALEURS PAR DÉFAUT */
+
+body {
+    font-family: 'Comic Sans MS';
+    background : #34b1eb;
+
+}
+
+
+/* RÈGLES POUR LES ÉCRANS DE TAILLE PETIT "SM" (576px et PLUS) */
+@media (min-width: 576px) {
+    .text-sm-right{
+        text-align: right;
+    } 
+    .text-sm-center{
+        text-align: center;
+    }
+    
+}
+
+/* RÈGLES POUR LES ÉCRANS DE TAILLE MEDIUM "MD" (768px et PLUS) */
+@media (min-width: 768px) {
+    .text-md-right{
+        text-align: right;
+    }
+    .text-md-center{
+        text-align: center;
+    }
+}
+
+/* RÈGLES POUR LES ÉCRANS DE TAILLE MEDIUM "LG" (992px et PLUS) */
+@media (min-width: 992px) { 
+    .text-lg-right{
+        text-align: right;
+    }
+    .text-lg-center{
+        text-align: center;
+    }
+}
+
+/* RÈGLES POUR LES ÉCRANS DE TAILLE MEDIUM "XL" (1200px et PLUS) */
+@media (min-width: 1200px) { 
+    .text-xl-right{
+        text-align: right;
+    }
+    .text-xl-center{
+        text-align: center;
+    }
+}

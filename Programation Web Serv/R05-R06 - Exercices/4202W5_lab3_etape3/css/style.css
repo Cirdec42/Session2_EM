@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body {
+    background-color: #f2e4ee;
+    font-family: 'Comic Sans MS';
+    transition: background-color 1s;
+}
+
+/* Règles pour les écrans MD et + */
+@media (min-width: 768px) {
+    body {
+        background-color: #e9e4f2;
+    }
+}
+
+/* Règles pour les écrans LG et + */
+@media (min-width: 992px) {
+    body {
+        background-color: #e4f0f2;
+    }
+}
+
+.encadré {
+    border: 3px solid black;
+}
+
+.mettreEnMajuscule {
+    text-transform: uppercase;
+}
+
+.container {
+    box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.75);
+}
+
+.boutonMenu {
+    border: 1px black solid; 
+    border-radius: 5px; 
+    background-color: rgba(255, 255, 255, 0.5); /* blanc avec une opacité de 50%*/
+    color: black;
+    padding: 0.5em;
+}
+
+.bandeau {
+    background-color: rgba(0, 0, 0, 0.5);  /* noir avec une opacité de 50%*/
+    color:white;
+}
+
+#triforce {
+    width: 50px;
+    opacity: 0.5;
+}

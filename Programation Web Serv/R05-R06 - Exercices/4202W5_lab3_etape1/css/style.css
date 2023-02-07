@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body > p{
+    font-size: 1.2em;
+	transition: font-size 1s;
+}
+.thanos{
+    opacity:0.1;
+	transition: opacity 1s;
+}
+.phrases{
+    font-family: 'Courier New';
+    text-align: right;
+}
+@media (min-width:576px) {
+    .thanos{
+        opacity: 30%;
+    }
+    .phrases{text-align: center;}
+}
+@media (min-width:768px){
+    .thanos{opacity: 60%;}
+    body>p{font-size: 1em;}
+}
+@media (min-width:992px){
+    .phrases{text-align: center;}
+}
+@media (min-width:1200px){
+    .thanos{opacity: 100%;}
+    .phrases{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+}

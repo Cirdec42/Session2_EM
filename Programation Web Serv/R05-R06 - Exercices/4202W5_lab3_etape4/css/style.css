@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+header,footer{
+    background:#d6fdff;
+}
+
+main{
+    background:#d6f1ff;
+}
+
+ul{
+    list-style: none;
+    padding-left:0;
+}
+
