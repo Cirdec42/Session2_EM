@@ -4,3 +4,14 @@ body{
     background-color: rgb(255, 201, 22);
     
 }
+
+i{
+    color: rebeccapurple;
+    size: 3em;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+}
+
