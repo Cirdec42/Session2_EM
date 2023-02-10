@@ -1,0 +1,10 @@
+//  Canal
+public const int DÉFAUT_CANAL = 10;
+public const int MIN_CANAL = 2;
+public const int MAX_CANAL = 125;
+//  Volume
+public const int DÉFAUT_VOLUME = 15;
+public const int MIN_VOLUME = 0;
+public const int MAX_VOLUME = 50;
+// ModeImage
+public const int NB_MODE_IMAGE = 3;
