@@ -1,7 +1,7 @@
 ﻿// Pour "activer" un groupe de tests, enlever le commentaire en avant du #define
 
 #define TestsClasseModeImage
-//#define TestsClasseTéléviseur
+#define TestsClasseTéléviseur
 //#define TestsFormulaire
 
 using System;
