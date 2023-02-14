@@ -1,0 +1,134 @@
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\AppModeImage.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\obj\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\Correcteur_Télécommande\obj\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\AppModeImage.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\obj\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\Correcteur_Télécommande\obj\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\obj\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\obj\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\Correcteur_Télécommande\bin\Debug\AppTélécommande.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\UnitTestProject1.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\UnitTestProject1.pdb
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\UnitTestProject1.dll
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\UnitTestProject1.pdb
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.exe
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.pdb
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.exe.config
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\UnitTestProject1.dll
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\UnitTestProject1.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\UnitTestProject1.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\UnitTestProject1.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\AppTélécommande.exe.config
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\Correcteur_Télécommande.csproj.CopyComplete
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\UnitTestProject1.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\Correcteur_Télécommande\obj\Debug\UnitTestProject1.pdb

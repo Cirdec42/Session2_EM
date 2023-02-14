@@ -1,0 +1,115 @@
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\bin\Debug\AppModeImage.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\bin\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\bin\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\bin\Debug\VisualArrays.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\obj\Debug\AppTélécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\obj\Debug\AppModeImage.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\obj\Debug\AppTélécommande.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\obj\Debug\AppTélécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\obj\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\obj\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.0\AppTélécommande\obj\Debug\AppTélécommande.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\bin\Debug\AppModeImage.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\bin\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\bin\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\bin\Debug\VisualArrays.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\obj\Debug\AppTélécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\obj\Debug\AppTélécommande.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\obj\Debug\AppModeImage.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\obj\Debug\AppTélécommande.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\obj\Debug\AppTélécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\obj\Debug\AppModeImage.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.1.0\AppTélécommande\obj\Debug\AppModeImage.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\bin\Debug\VisualArrays.dll
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\obj\Debug\AppTélécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\obj\Debug\AppTélécommande.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\obj\Debug\AppTélécommande.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\obj\Debug\AppTélécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\bin\Debug\AppTélécommande.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\bin\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\bin\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\obj\Debug\AppTélécommande.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\obj\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\AppTélécommande (Solution+Corr) H21.0.95\AppTélécommande\obj\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.1\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.1\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.1\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.1\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Solution+Corr) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe.config
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.pdb
+J:\H21 2N6 Les Capsules\R05 Travail Pratique #2\_Code C#\TP2P2 AppTélécommande (Matériel) H21.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe.config
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.pdb
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.FrmPrincipal.resources
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.Properties.Resources.resources
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.exe
+C:\Users\jamil.gammoudi\Downloads\TP2P2 AppTélécommande (Matériel) H21.1.3\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.pdb
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe.config
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.pdb
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.exe
+C:\Users\stephane.desmeules\Downloads\TP2P2 AppTélécommande (Matériel) H23.1.0\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe.config
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.SuggestedBindingRedirects.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.FrmPrincipal.resources
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.Properties.Resources.resources
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.pdb
