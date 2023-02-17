@@ -2,7 +2,7 @@
 
 #define TestsClasseModeImage
 #define TestsClasseTéléviseur
-//#define TestsFormulaire
+#define TestsFormulaire
 
 using System;
 using System.IO;

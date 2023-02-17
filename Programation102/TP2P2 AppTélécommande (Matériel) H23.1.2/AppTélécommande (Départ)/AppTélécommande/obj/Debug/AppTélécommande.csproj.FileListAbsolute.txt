@@ -113,3 +113,15 @@ C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Ma
 C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
 C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.exe
 C:\Users\2132903\Desktop\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.pdb
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe.config
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.exe
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\bin\Debug\AppTélécommande.pdb
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.AssemblyReference.cache
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.SuggestedBindingRedirects.cache
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.FrmPrincipal.resources
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.Properties.Resources.resources
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.GenerateResource.cache
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CoreCompileInputs.cache
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.csproj.CopyComplete
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.exe
+C:\Users\cedri\Documents\Session2_EM\Programation102\TP2P2 AppTélécommande (Matériel) H23.1.2\AppTélécommande (Départ)\AppTélécommande\obj\Debug\AppTélécommande.pdb

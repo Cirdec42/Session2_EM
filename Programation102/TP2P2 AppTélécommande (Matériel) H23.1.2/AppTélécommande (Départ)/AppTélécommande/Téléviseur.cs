@@ -46,20 +46,20 @@ namespace AppTélécommande
             set {m_indexSource = value;}
         }
 
-        private ModeImage[] m_tabModeImage;
+        private ModeImage[] m_tabModeImage = { new ModeImage("Sport", 88, 57,52, 0,10), new ModeImage("Jeu",100,72,48,-2,4), new ModeImage("Cinéma",77,44,40,2,1)};
         public ModeImage ModeImageCourant
         {
             get { return m_tabModeImage[m_indexModeImage]; }
         }
 
-        private string m_tabSources;
+        private string[] m_tabSources = {"HDMI 1", "HDMI 2", "HDMI 3", "Netflix", "Prime", "Crave", "Youtbe", "TV"};
         public int NbSource
         {
             get { return m_tabSources.Length; }
         }
         public string Source
         {
-            get { return m_tabSources;}
+            get { return m_tabSources[m_indexSource];}
         }
 
         private int m_volume;
@@ -106,7 +106,7 @@ namespace AppTélécommande
             if (m_canal==MIN_CANAL)
             {
                 m_canal = MAX_CANAL;
-
+                IndexSource = 7;
             }
             else
             {
@@ -127,6 +127,10 @@ namespace AppTélécommande
         public void ModeImageSuivant()
         {
             m_indexModeImage++;
+            if (m_indexModeImage == m_tabModeImage.Length)
+            {
+                m_indexModeImage = 0;
+            }
         }
 
         public Téléviseur()
@@ -141,7 +145,15 @@ namespace AppTélécommande
         public Téléviseur( int pCanal, int pVolume)
         {
             m_canal = pCanal;
+            if (pCanal > MAX_CANAL || pCanal < MIN_CANAL)
+            {
+                throw new ArgumentOutOfRangeException("value");
+            }
             m_volume = pVolume;
+            if (pVolume > MAX_VOLUME || pVolume < MIN_VOLUME)
+            {
+                throw new ArgumentOutOfRangeException("value");
+            }
             Sourdine = false;
             IndexSource = 0;
             IndexModeImage = 0;
@@ -149,10 +161,28 @@ namespace AppTélécommande
         public Téléviseur(int pCanal, int pVolume, int pIndexSource, int pIndexModeImage)
         {
             m_canal = pCanal;
+            if (pCanal > MAX_CANAL || pCanal < MIN_CANAL)
+            {
+                throw new ArgumentOutOfRangeException("value");
+            }
             m_volume = pVolume;
+            if (pVolume > MAX_VOLUME || pVolume < MIN_VOLUME)
+            {
+                throw new ArgumentOutOfRangeException("value");
+            }
+            Sourdine = false;
+            IndexSource = 0;
+            IndexModeImage = 0;
             m_indexSource = pIndexSource;
+            if (pIndexSource>m_tabSources.Length-1 || pIndexSource<0)
+            {
+                throw new ArgumentOutOfRangeException("value");
+            }
             m_indexModeImage = pIndexModeImage;
-            Sourdine=false;
+            if (pIndexModeImage == NB_MODE_IMAGE || pIndexModeImage < 0)
+            {
+                throw new ArgumentOutOfRangeException("value");
+            }
         }
 
         #endregion
