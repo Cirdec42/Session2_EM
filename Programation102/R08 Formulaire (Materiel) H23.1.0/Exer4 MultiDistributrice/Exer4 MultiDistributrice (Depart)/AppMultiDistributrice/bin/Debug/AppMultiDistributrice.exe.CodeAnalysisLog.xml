@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="d:\program files\microsoft visual studio 10.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="10.0">
+ <Targets>
+  <Target Name="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice\bin\Debug\AppMultiDistributrice.exe">
+   <Modules>
+    <Module Name="appmultidistributrice.exe">
+     <Messages>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">Signez 'AppMultiDistributrice.exe' avec une clé de nom fort.</Issue>
+      </Message>
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="NonBreaking">
+       <Issue Certainty="95" Level="Error">Marquer 'AppMultiDistributrice.exe' avec CLSCompliant(true) car il expose les types visibles de l'extérieur.</Issue>
+      </Message>
+      <Message TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="NonBreaking">
+       <Issue Certainty="95" Level="Warning">Comme un assembly 'AppMultiDistributrice.exe' contient un fichier de ressources .resx, marquez-le avec l'attribut NeutralResourcesLanguage, en spécifiant le langage des ressources au sein de l'assembly. Cela permet d'améliorer les performances de recherche lorsqu'une ressource est extraite pour la première fois.</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="AppMultiDistributrice">
+       <Types>
+        <Type Name="ClsMachine" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor(System.Int32,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="De" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="Breaking">
+             <Issue Name="MemberParameter" Certainty="85" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="ClsMachine.cs" Line="106">Dans le membre 'ClsMachine.ClsMachine(int, int, int, int)', corrigez la casse de 'De' dans le nom de paramètre 'pNbJusDePommme' et changez-la en 'DE'.</Issue>
+            </Message>
+            <Message Id="Nb" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="Breaking">
+             <Issue Name="MemberParameter" Certainty="85" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="ClsMachine.cs" Line="106">Dans le membre 'ClsMachine.ClsMachine(int, int, int, int)', corrigez la casse de 'Nb' dans le nom de paramètre 'pNb7Up' et changez-la en 'NB'.</Issue>
+             <Issue Name="MemberParameter" Certainty="85" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="ClsMachine.cs" Line="106">Dans le membre 'ClsMachine.ClsMachine(int, int, int, int)', corrigez la casse de 'Nb' dans le nom de paramètre 'pNbCoke' et changez-la en 'NB'.</Issue>
+             <Issue Name="MemberParameter" Certainty="85" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="ClsMachine.cs" Line="106">Dans le membre 'ClsMachine.ClsMachine(int, int, int, int)', corrigez la casse de 'Nb' dans le nom de paramètre 'pNbJusDePommme' et changez-la en 'NB'.</Issue>
+             <Issue Name="MemberParameter" Certainty="85" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="ClsMachine.cs" Line="106">Dans le membre 'ClsMachine.ClsMachine(int, int, int, int)', corrigez la casse de 'Nb' dans le nom de paramètre 'pNbTheGlace' et changez-la en 'NB'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="enuBreuvage" Kind="Enum" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message Id="enu" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="Breaking">
+           <Issue Name="Type" Certainty="85" Level="Error">Corrigez la casse de 'enu' dans le nom de type 'enuBreuvage' et changez-la en 'Enu'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#JusDePommes" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="De" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="85" Level="Error">Corrigez la casse de 'De' dans le nom de membre 'enuBreuvage.JusDePommes' et changez-la en 'DE'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmInventaire" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="Ne pas passer de littéraux en paramètres localisés" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmInventaire.Designer.cs" Line="51">La méthode 'FrmInventaire.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "&amp;Fermer".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmInventaire.Designer.cs" Line="66">La méthode 'FrmInventaire.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Inventaire des machines".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmListeMachines" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor(System.Collections.Generic.List`1&lt;AppMultiDistributrice.ClsMachine&gt;)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmListeMachines.Designer.cs" Line="8">Modifier 'List&lt;ClsMachine&gt;' en 'FrmListeMachines.FrmListeMachines(List&lt;ClsMachine&gt;)' pour utiliser Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; ou KeyedCollection&lt;K,V&gt;</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Afficher()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Int32.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmListeMachines.cs" Line="37">Le comportement de 'int.ToString()' pouvant varier en fonction des paramètres régionaux de l'utilisateur actuel, remplacez cet appel dans 'FrmListeMachines.Afficher()' par un appel à 'int.ToString(IFormatProvider)'. Si le résultat de 'int.ToString(IFormatProvider)' s'affiche au niveau de l'utilisateur, spécifiez 'CultureInfo.CurrentCulture' comme paramètre 'IFormatProvider'. Sinon, si le résultat est stocké et consulté par le logiciel, comme lorsqu'il est enregistré sur disque ou dans une base de données, spécifiez 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="Ne pas passer de littéraux en paramètres localisés" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmListeMachines.Designer.cs" Line="83">La méthode 'FrmListeMachines.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "&amp;Fermer".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmListeMachines.Designer.cs" Line="112">La méthode 'FrmListeMachines.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Inventaire des machines".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmListeMachines.Designer.cs" Line="94">La méthode 'FrmListeMachines.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Machines pleines seulement".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmListeMachines.Designer.cs" Line="56">La méthode 'FrmListeMachines.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Total  de cannettes :".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmPrincipal" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#AfficherInfosMachine()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Int32.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.cs" Line="54">Le comportement de 'int.ToString()' pouvant varier en fonction des paramètres régionaux de l'utilisateur actuel, remplacez cet appel dans 'FrmPrincipal.AfficherInfosMachine()' par un appel à 'int.ToString(IFormatProvider)'. Si le résultat de 'int.ToString(IFormatProvider)' s'affiche au niveau de l'utilisateur, spécifiez 'CultureInfo.CurrentCulture' comme paramètre 'IFormatProvider'. Sinon, si le résultat est stocké et consulté par le logiciel, comme lorsqu'il est enregistré sur disque ou dans une base de données, spécifiez 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.cs" Line="55">Le comportement de 'int.ToString()' pouvant varier en fonction des paramètres régionaux de l'utilisateur actuel, remplacez cet appel dans 'FrmPrincipal.AfficherInfosMachine()' par un appel à 'int.ToString(IFormatProvider)'. Si le résultat de 'int.ToString(IFormatProvider)' s'affiche au niveau de l'utilisateur, spécifiez 'CultureInfo.CurrentCulture' comme paramètre 'IFormatProvider'. Sinon, si le résultat est stocké et consulté par le logiciel, comme lorsqu'il est enregistré sur disque ou dans une base de données, spécifiez 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.cs" Line="56">Le comportement de 'int.ToString()' pouvant varier en fonction des paramètres régionaux de l'utilisateur actuel, remplacez cet appel dans 'FrmPrincipal.AfficherInfosMachine()' par un appel à 'int.ToString(IFormatProvider)'. Si le résultat de 'int.ToString(IFormatProvider)' s'affiche au niveau de l'utilisateur, spécifiez 'CultureInfo.CurrentCulture' comme paramètre 'IFormatProvider'. Sinon, si le résultat est stocké et consulté par le logiciel, comme lorsqu'il est enregistré sur disque ou dans une base de données, spécifiez 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.cs" Line="57">Le comportement de 'int.ToString()' pouvant varier en fonction des paramètres régionaux de l'utilisateur actuel, remplacez cet appel dans 'FrmPrincipal.AfficherInfosMachine()' par un appel à 'int.ToString(IFormatProvider)'. Si le résultat de 'int.ToString(IFormatProvider)' s'affiche au niveau de l'utilisateur, spécifiez 'CultureInfo.CurrentCulture' comme paramètre 'IFormatProvider'. Sinon, si le résultat est stocké et consulté par le logiciel, comme lorsqu'il est enregistré sur disque ou dans une base de données, spécifiez 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.cs" Line="59">Le comportement de 'int.ToString()' pouvant varier en fonction des paramètres régionaux de l'utilisateur actuel, remplacez cet appel dans 'FrmPrincipal.AfficherInfosMachine()' par un appel à 'int.ToString(IFormatProvider)'. Si le résultat de 'int.ToString(IFormatProvider)' s'affiche au niveau de l'utilisateur, spécifiez 'CultureInfo.CurrentCulture' comme paramètre 'IFormatProvider'. Sinon, si le résultat est stocké et consulté par le logiciel, comme lorsqu'il est enregistré sur disque ou dans une base de données, spécifiez 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="Ne pas passer de littéraux en paramètres localisés" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="235">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Machine courante :".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="266">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Machines Distributrices du Collège (Démo)".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="195">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Obtenir un 7up".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="204">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Obtenir un Coke".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="186">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Obtenir un jus".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="177">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Obtenir un thé glacé".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="167">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Recharger la machine".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="76">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'Control.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "menuStrip1".</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.ToolStripItem.set_Text(System.String)" TypeName="Ne pas passer de littéraux en paramètres localisés" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="DependsOnFix">
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="101">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'ToolStripItem.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Affichage".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="84">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'ToolStripItem.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Fichier".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="108">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'ToolStripItem.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Inventaire".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="252">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'ToolStripItem.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Liste des machines".</Issue>
+             <Issue Name="KnownValue" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.Designer.cs" Line="91">La méthode 'FrmPrincipal.InitializeComponent()' passe une chaîne littérale en paramètre 'value' d'un appel à 'ToolStripItem.Text.set(string)'. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : "Quitter".</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#mnuAffichageInventaire_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Int32.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.cs" Line="132">Le comportement de 'int.ToString()' pouvant varier en fonction des paramètres régionaux de l'utilisateur actuel, remplacez cet appel dans 'FrmPrincipal.mnuAffichageInventaire_Click(object, EventArgs)' par un appel à 'int.ToString(IFormatProvider)'. Si le résultat de 'int.ToString(IFormatProvider)' s'affiche au niveau de l'utilisateur, spécifiez 'CultureInfo.CurrentCulture' comme paramètre 'IFormatProvider'. Sinon, si le résultat est stocké et consulté par le logiciel, comme lorsqu'il est enregistré sur disque ou dans une base de données, spécifiez 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message TypeName="Supprimer les objets avant la mise hors de portée" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.cs" Line="137">Dans la méthode 'FrmPrincipal.mnuAffichageInventaire_Click(object, EventArgs)', appelez System.IDisposable.Dispose sur l'objet 'formulaire' avant que toutes les références s'y rapportant ne soient hors de portée.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#mnuAffichageListeDesMachines_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Supprimer les objets avant la mise hors de portée" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2011-02-09 20:12:42Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerD MultiDistributrice\Sol_MultiDistributrice\AppMultiDistributrice" File="FrmPrincipal.cs" Line="143">Dans la méthode 'FrmPrincipal.mnuAffichageListeDesMachines_Click(object, EventArgs)', appelez System.IDisposable.Dispose sur l'objet 'formulaire' avant que toutes les références s'y rapportant ne soient hors de portée.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>Les assemblys doivent porter des noms forts valides</Name>
+   <Description>L'assembly possède un nom fort non valide ou aucun nom fort, ou le nom fort est valide uniquement en raison de la configuration de l'ordinateur. L'assembly ne doit pas être déployé dans cet état. Les causes les plus courantes de ce problème sont les suivantes : 1) Le contenu de l'assembly a été modifié après la signature de l'assembly. 2) Le processus de signature a échoué. 3) La signature de l'assembly a été différée. 4) Il existait une clé de Registre qui permettait la réussite du contrôle (laquelle aurait été impossible dans le cas contraire).</Description>
+   <Resolution Name="NoStrongName">Signez {0} avec une clé de nom fort.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182127(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002">
+   <Name>Ne pas exposer de listes génériques</Name>
+   <Description>N'exposez pas List&lt;T&gt; dans les modèles objet. Utilisez Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; ou KeyedCollection&lt;K,V&gt; à la place. List&lt;T&gt; est conçu pour être utilisé à partir de l'implémentation, et non dans l'API de modèle objet. List&lt;T&gt; est optimisé pour accroître les performances au détriment du contrôle de version à long terme. Par exemple, si vous retournez List&lt;T&gt; pour le code client, vous ne pourrez jamais recevoir de notifications lorsque le code client modifiera la collection.</Description>
+   <Resolution Name="Default">Modifier {0} en {1} pour utiliser Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; ou KeyedCollection&lt;K,V&gt;</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182142(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709">
+   <Name>La casse des identificateurs doit être correcte</Name>
+   <Description>Les identificateurs de type, d'espace de noms et de membre utilisent la casse Pascal. Les identificateurs de paramètre utilisent une casse mixte. Les acronymes à deux lettres au sein de ces identificateurs doivent apparaître en majuscules. Par exemple, utilisez System.IO à la place de System.Io. Les acronymes de trois lettres ou plus ne doivent pas utiliser la casse Pascal. Par exemple, utilisez System.Xml à la place de System.XML. Dans la casse Pascal, la première lettre de chaque mot est en majuscule (par exemple, BackColor). Dans la casse mixte, la première lettre du premier mot est en minuscules et la première lettre de tous les mots suivants, en majuscule (par exemple, backgroundColor). Bien qu'il soit courant que certains acronymes à deux lettres n'apparaissent pas entièrement en majuscules, ils ne devraient pour autant pas être exclus pour cette raison. Par exemple, 'DbConnection' est courant mais incorrect ; utilisez DBConnection à la place. Il peut s'avérer nécessaire d'enfreindre cette règle pour des raisons de compatibilité avec un jeu de symboles non managé existant. Néanmoins, en règle générale, ces symboles ne doivent pas être visibles en dehors de l'assembly qui les utilise.</Description>
+   <Resolution Name="Member">Corrigez la casse de '{0}' dans le nom de membre {1} et changez-la en '{2}'.</Resolution>
+   <Resolution Name="MemberParameter">Dans le membre {0}, corrigez la casse de '{1}' dans le nom de paramètre {2} et changez-la en '{3}'.</Resolution>
+   <Resolution Name="Type">Corrigez la casse de '{0}' dans le nom de type {1} et changez-la en '{2}'.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182240(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="85">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014">
+   <Name>Marquer les assemblys avec CLSCompliantAttribute</Name>
+   <Description>Les assemblys doivent indiquer explicitement leur conformité CLS à l'aide de l'attribut CLSCompliant. Un assembly ne possédant pas cet attribut n'est pas conforme CLS. Les assemblys, les modules et les types peuvent être conformes CLS même si des parties de l'assembly, du module ou du type ne sont pas conformes CLS. Les règles suivantes s'appliquent : 1) Si l'élément est marqué CLSCompliant, les membres non conformes doivent posséder l'attribut CLSCompliant avec son argument défini à false. 2) Un autre membre conforme CLS comparable doit être fourni pour chaque membre non conforme CLS.</Description>
+   <Resolution Name="Default">Marquer {0} avec CLSCompliant(true) car il expose les types visibles de l'extérieur.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182156(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824">
+   <Name>Marquer les assemblys avec NeutralResourcesLanguageAttribute</Name>
+   <Description>L'attribut NeutralResourcesLanguage informe le ResourceManager du langage utilisé pour restituer les ressources de la culture neutre d'un assembly. Lors de la recherche de ressources dans la même culture que le langage des ressources neutre, le ResourceManager utilise automatiquement les ressources situées dans l'assembly principal, au lieu de chercher un assembly satellite ayant la culture de l'interface utilisateur actuelle pour le thread actif. Cela permet d'améliorer les performances de recherche de la première ressource chargée et de réduire votre jeu de travail.</Description>
+   <Resolution Name="Default">Comme un assembly {0} contient un fichier de ressources .resx, marquez-le avec l'attribut NeutralResourcesLanguage, en spécifiant le langage des ressources au sein de l'assembly. Cela permet d'améliorer les performances de recherche lorsqu'une ressource est extraite pour la première fois.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb385967(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="Ne pas passer de littéraux en paramètres localisés" Category="Microsoft.Globalization" CheckId="CA1303">
+   <Name>Ne pas passer de littéraux en paramètres localisés</Name>
+   <Description>Les chaînes littérales intégrées au code source sont difficiles à localiser. Évitez de passer des chaînes littérales en arguments dans des cas où une chaîne localisée est généralement attendue.</Description>
+   <Resolution Name="KnownValue">La méthode {0} passe une chaîne littérale en paramètre '{1}' d'un appel à {2}. Extrayez à la place la ou les chaînes suivantes d'une table de ressources : {3}.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182187(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305">
+   <Name>Spécifier IFormatProvider</Name>
+   <Description>S'il existe une surcharge qui accepte un argument IFormatProvider, elle doit être systématiquement appelée au profit d'une surcharge qui n'accepte pas cet argument. Certaines méthodes dans le Common Language Runtime convertissent une valeur vers ou depuis une représentation sous forme de chaîne et acceptent un paramètre de chaîne qui contient un ou plusieurs caractères (appelés spécificateurs de format), lesquels indiquent comment la valeur doit être convertie. Si la signification du spécificateur de format varie en fonction de la culture, un objet de mise en forme fournit les caractères réels utilisés dans la représentation sous forme de chaîne. Dans les scénarios où le comportement de tri et de comparaison ne doit jamais changer entre les cultures, spécifiez CultureInfo.InvariantCulture ; sinon, spécifiez CultureInfo.CurrentCulture.</Description>
+   <Resolution Name="IFormatProviderAlternateString">Le comportement de {0} pouvant varier en fonction des paramètres régionaux de l'utilisateur actuel, remplacez cet appel dans {1} par un appel à {2}. Si le résultat de {2} s'affiche au niveau de l'utilisateur, spécifiez {3} comme paramètre 'IFormatProvider'. Sinon, si le résultat est stocké et consulté par le logiciel, comme lorsqu'il est enregistré sur disque ou dans une base de données, spécifiez {4}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182190(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="globalizationrules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="Supprimer les objets avant la mise hors de portée" Category="Microsoft.Reliability" CheckId="CA2000">
+   <Name>Supprimer les objets avant la mise hors de portée</Name>
+   <Description>Si un objet supprimable n'est pas supprimé explicitement avant que toutes les références s'y rapportant ne soient hors de portée, cet objet sera supprimé à un moment indéterminé lorsque le Garbage Collector exécutera le finaliseur sur l'objet. Il est préférable que l'objet soit supprimé explicitement, car un événement exceptionnel peut se produire, empêchant l'exécution du finaliseur de l'objet.</Description>
+   <Resolution Name="NonExceptionEdge">Dans la méthode {0}, appelez System.IDisposable.Dispose sur l'objet {1} avant que toutes les références s'y rapportant ne soient hors de portée.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182289(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="10.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Catégorie</String>
+  <String Key="Certainty">Certitude</String>
+  <String Key="CollapseAll">Réduire tout</String>
+  <String Key="CheckId">ID de contrôle</String>
+  <String Key="Error">Erreur</String>
+  <String Key="Errors">erreur(s)</String>
+  <String Key="ExpandAll">Développer tout</String>
+  <String Key="Help">Aide</String>
+  <String Key="Line">Ligne</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Emplacement non stocké dans le fichier Pdb]</String>
+  <String Key="Project">Projet</String>
+  <String Key="Resolution">Résolution</String>
+  <String Key="Rule">Règle</String>
+  <String Key="RuleFile">Fichier de règles</String>
+  <String Key="RuleDescription">Description de la règle</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">État</String>
+  <String Key="Target">Cible</String>
+  <String Key="Warning">Avertissement</String>
+  <String Key="Warnings">avertissement(s)</String>
+  <String Key="ReportTitle">Rapport d'analyse du code</String>
+ </Localized>
+</FxCopReport>

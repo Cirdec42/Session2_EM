@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+obj\Debug\ApplicationDistributrice.csproj.GenerateResource.Cache
+bin\Debug\ApplicationDistributrice.exe
+bin\Debug\ApplicationDistributrice.pdb
+obj\Debug\ApplicationDistributrice.exe
+obj\Debug\ApplicationDistributrice.pdb
+obj\Debug\ApplicationDistributrice.FrmPrincipal.resources

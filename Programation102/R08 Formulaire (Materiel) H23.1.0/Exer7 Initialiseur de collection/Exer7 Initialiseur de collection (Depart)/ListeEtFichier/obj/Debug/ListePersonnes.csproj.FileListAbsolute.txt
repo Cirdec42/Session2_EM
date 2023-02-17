@@ -1,0 +1,33 @@
+C:\EspaceLabo\Exer7 Initialiseur de collection\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+C:\EspaceLabo\Exer7 Initialiseur de collection\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+C:\EspaceLabo\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListePersonnes.csprojAssemblyReference.cache
+C:\EspaceLabo\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+C:\EspaceLabo\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+C:\EspaceLabo\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListePersonnes.csproj.GenerateResource.cache
+C:\EspaceLabo\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+C:\EspaceLabo\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0\Exer-7 Initialiseur de collection\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0\Exer-7 Initialiseur de collection\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0\Exer-7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListePersonnes.csprojAssemblyReference.cache
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0\Exer-7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0\Exer-7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0\Exer-7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListePersonnes.csproj.GenerateResource.cache
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0\Exer-7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0\Exer-7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer7 Initialiseur de collection\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer7 Initialiseur de collection\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListePersonnes.csprojAssemblyReference.cache
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListePersonnes.csproj.GenerateResource.cache
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer7 Initialiseur de collection\ListeEtFichier\obj\Debug\ListeEtFichier.pdb
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer7 Initialiseur de collection\Exer7 Initialiseur de collection (Depart)\ListeEtFichier\bin\Debug\ListeEtFichier.exe
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer7 Initialiseur de collection\Exer7 Initialiseur de collection (Depart)\ListeEtFichier\bin\Debug\ListeEtFichier.pdb
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer7 Initialiseur de collection\Exer7 Initialiseur de collection (Depart)\ListeEtFichier\obj\Debug\ListePersonnes.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer7 Initialiseur de collection\Exer7 Initialiseur de collection (Depart)\ListeEtFichier\obj\Debug\ListeEtFichier.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer7 Initialiseur de collection\Exer7 Initialiseur de collection (Depart)\ListeEtFichier\obj\Debug\ListeEtFichier.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer7 Initialiseur de collection\Exer7 Initialiseur de collection (Depart)\ListeEtFichier\obj\Debug\ListePersonnes.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer7 Initialiseur de collection\Exer7 Initialiseur de collection (Depart)\ListeEtFichier\obj\Debug\ListePersonnes.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer7 Initialiseur de collection\Exer7 Initialiseur de collection (Depart)\ListeEtFichier\obj\Debug\ListeEtFichier.exe
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer7 Initialiseur de collection\Exer7 Initialiseur de collection (Depart)\ListeEtFichier\obj\Debug\ListeEtFichier.pdb

@@ -1,0 +1,227 @@
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\ApplicationDistributrice\bin\Debug\ApplicationDistributrice.exe
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\ApplicationDistributrice\bin\Debug\ApplicationDistributrice.pdb
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\ApplicationDistributrice\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\ApplicationDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\ApplicationDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\ApplicationDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.Cache
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\ApplicationDistributrice\obj\Debug\ApplicationDistributrice.exe
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\ApplicationDistributrice\obj\Debug\ApplicationDistributrice.pdb
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\AppDistributrice\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+N:\206 H10\02-Intro aux classes\ExerE_Distributrice\Sol_Distributrice\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.Cache
+N:\206 H10\02-Intro aux classes\Cours 2\Exemple F Distributrice et enu\Sol_Exer_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+N:\206 H10\02-Intro aux classes\Cours 2\Exemple F Distributrice et enu\Sol_Exer_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+N:\206 H10\02-Intro aux classes\Cours 2\Exemple F Distributrice et enu\Sol_Exer_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+N:\206 H10\02-Intro aux classes\Cours 2\Exemple F Distributrice et enu\Sol_Exer_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+N:\206 H10\02-Intro aux classes\Cours 2\Exemple F Distributrice et enu\Sol_Exer_Distributrice\AppDistributrice\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\02-Intro aux classes\Cours 2\Exemple F Distributrice et enu\Sol_Exer_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+N:\206 H10\02-Intro aux classes\Cours 2\Exemple F Distributrice et enu\Sol_Exer_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+N:\206 H10\02-Intro aux classes\Cours 2\Exemple F Distributrice et enu\Sol_Exer_Distributrice\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.Cache
+N:\206 H10\02-Intro aux classes\Cours 2\Exer F Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+N:\206 H10\02-Intro aux classes\Cours 2\Exer F Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+N:\206 H10\02-Intro aux classes\Cours 2\Exer F Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+N:\206 H10\02-Intro aux classes\Cours 2\Exer F Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+N:\206 H10\02-Intro aux classes\Cours 2\Exer F Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\02-Intro aux classes\Cours 2\Exer F Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+N:\206 H10\02-Intro aux classes\Cours 2\Exer F Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+N:\206 H10\02-Intro aux classes\Cours 2\Exer F Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.Cache
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu vs2010\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu vs2010\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu vs2010\Sol_Une_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu vs2010\Sol_Une_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu vs2010\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu vs2010\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu vs2010\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu vs2010\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu vs2010\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu vs2010\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerF Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerA Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerA Distributrice et enu\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H11\_Module 1\Théorie 4\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+K:\_Mes Cours\_420-206 H11\Module 1\Théorie 4 v1.0\ExerB Distributrice\Sol_Une_Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H13\R06 Formulaire (Solution) v0.5\Exer1 Distributrice (Solution) v0.1\AppDistributrice\obj\Debug\ResGen.write.1.tlog
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\obj\Debug\ResolveAssemblyReference.cache
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\obj\Debug\ResGen.read.1.tlog
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\__Cours\420-206 H13\Module 1\R06 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) v1.0\AppDistributrice\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H13\_Module #1\R06 Formulaire (Solution) v1.1\Exer1 Distributrice (Solution) v1.1\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H13\_Module #1\R06 Formulaire (Solution) v1.1\Exer1 Distributrice (Solution) v1.1\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H14\_Module #1\R06 Formulaire (Solution) v0.9\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H14\_Module #1\R06 Formulaire (Solution) v0.9\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H14\_Module #1\R06 Formulaire (Solution) v0.9\Exer1 Distributrice (Solution)\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+E:\_Cours 206-H14\_Module #1\R06 Formulaire (Solution) v0.9\Exer1 Distributrice (Solution)\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+E:\_Cours 206-H14\_Module #1\R06 Formulaire (Solution) v0.9\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\AppDistributrice.csprojResolveAssemblyReference.cache
+E:\_Cours 206-H14\_Module #1\R06 Formulaire (Solution) v0.9\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+E:\_Cours 206-H14\_Module #1\R06 Formulaire (Solution) v0.9\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+E:\_Cours 206-H14\_Module #1\R06 Formulaire (Solution) v0.9\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.Cache
+E:\__Cours\420-206 H14\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\__Cours\420-206 H14\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+G:\__Cours\420-206 H14\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+G:\__Cours\420-206 H14\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\AppDistributrice.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution)\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.Cache
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) H15.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) H15.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) H15.1.0\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) H15.1.0\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) H15.1.0\AppDistributrice\obj\Debug\AppDistributrice.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) H15.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) H15.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+G:\_420-206 H15\Module 1\R05 Formulaire (Solution) v1.0\Exer1 Distributrice (Solution) H15.1.0\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.Cache
+E:\_420-206 H15\Module 1\R05 Formulaire (Solution) H15.1.0\Exer1 Distributrice (Solution) H15.1\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_420-206 H15\Module 1\R05 Formulaire (Solution) H15.1.0\Exer1 Distributrice (Solution) H15.1\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_420-206 H15\Module 1\R05 Formulaire (Solution) H15.1.0\Exer1 Distributrice (Solution) H15.1\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+E:\_420-206 H15\Module 1\R05 Formulaire (Solution) H15.1.0\Exer1 Distributrice (Solution) H15.1\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+E:\_420-206 H15\Module 1\R05 Formulaire (Solution) H15.1.0\Exer1 Distributrice (Solution) H15.1\AppDistributrice\obj\Debug\AppDistributrice.csprojResolveAssemblyReference.cache
+E:\_420-206 H15\Module 1\R05 Formulaire (Solution) H15.1.0\Exer1 Distributrice (Solution) H15.1\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+E:\_420-206 H15\Module 1\R05 Formulaire (Solution) H15.1.0\Exer1 Distributrice (Solution) H15.1\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+E:\_420-206 H15\Module 1\R05 Formulaire (Solution) H15.1.0\Exer1 Distributrice (Solution) H15.1\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.Cache
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H15.1.1\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H15.1.1\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H15.1.1\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H15.1.1\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H15.1.1\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\AppDistributrice.csprojResolveAssemblyReference.cache
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H15.1.1\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H15.1.1\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H15.1.1\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.Cache
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H16.1.0\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H16.1.0\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H16.1.0\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H16.1.0\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H16.1.0\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\AppDistributrice.csprojResolveAssemblyReference.cache
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H16.1.0\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H16.1.0\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+E:\_420-206 A16\Module 1\R05 Formulaire (Solution) H16.1.0\Exer1 Distributrice (Solution) H16.1.0\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.Cache
+I:\_420-206 H17\_Module 1\R05 Formulaire (Solution) H16.2.0\Exer1 Distributrice (Solution) H16.1.0.1\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+I:\_420-206 H17\_Module 1\R05 Formulaire (Solution) H16.2.0\Exer1 Distributrice (Solution) H16.1.0.1\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+I:\_420-206 H17\_Module 1\R05 Formulaire (Solution) H16.2.0\Exer1 Distributrice (Solution) H16.1.0.1\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+I:\_420-206 H17\_Module 1\R05 Formulaire (Solution) H16.2.0\Exer1 Distributrice (Solution) H16.1.0.1\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+I:\_420-206 H17\_Module 1\R05 Formulaire (Solution) H16.2.0\Exer1 Distributrice (Solution) H16.1.0.1\AppDistributrice\obj\Debug\AppDistributrice.csprojResolveAssemblyReference.cache
+I:\_420-206 H17\_Module 1\R05 Formulaire (Solution) H16.2.0\Exer1 Distributrice (Solution) H16.1.0.1\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+I:\_420-206 H17\_Module 1\R05 Formulaire (Solution) H16.2.0\Exer1 Distributrice (Solution) H16.1.0.1\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+I:\_420-206 H17\_Module 1\R05 Formulaire (Solution) H16.2.0\Exer1 Distributrice (Solution) H16.1.0.1\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.Cache
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.0\Exer3 Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.0\Exer3 Distributrice\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.0\Exer3 Distributrice\AppDistributrice\obj\Debug\AppDistributrice.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.0\Exer3 Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.0\Exer3 Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.0\Exer3 Distributrice\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.0\Exer3 Distributrice\AppDistributrice\obj\Debug\AppDistributrice.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.0\Exer3 Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.0\Exer3 Distributrice\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.7\Exer5 Distributrice Tab1D\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.7\Exer5 Distributrice Tab1D\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.7\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\AppDistributrice.csprojAssemblyReference.cache
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.7\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.7\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.7\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.7\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\AppDistributrice.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.7\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+F:\_Cours 2N6 H20\R06 Formulaire supplémentaire\R06 Formulaire (Solution) H20.0.7\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Solution) H20.1.0\Exer5 Distributrice Tab1D\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Solution) H20.1.0\Exer5 Distributrice Tab1D\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Solution) H20.1.0\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\AppDistributrice.csprojAssemblyReference.cache
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Solution) H20.1.0\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Solution) H20.1.0\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Solution) H20.1.0\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.cache
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Solution) H20.1.0\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Solution) H20.1.0\Exer5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer-5 Distributrice Tab1D\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer-5 Distributrice Tab1D\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer-5 Distributrice Tab1D\AppDistributrice\obj\Debug\AppDistributrice.csprojAssemblyReference.cache
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer-5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer-5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer-5 Distributrice Tab1D\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.cache
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer-5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+H:\_Cours 2N6 H20\R07 Formulaire supplémentaire\R07 Formulaire (Materiel) H20.2.0 NOT OK\Exer-5 Distributrice Tab1D\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+J:\H21 2N6 Les Capsules\R08 ShowDialog\_Code C#\R08 Formulaire (Materiel) H21.1.0\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\bin\Debug\ApplicationDistributrice.exe.config
+J:\H21 2N6 Les Capsules\R08 ShowDialog\_Code C#\R08 Formulaire (Materiel) H21.1.0\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\bin\Debug\ApplicationDistributrice.exe
+J:\H21 2N6 Les Capsules\R08 ShowDialog\_Code C#\R08 Formulaire (Materiel) H21.1.0\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\bin\Debug\ApplicationDistributrice.pdb
+J:\H21 2N6 Les Capsules\R08 ShowDialog\_Code C#\R08 Formulaire (Materiel) H21.1.0\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\AppDistributrice.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R08 ShowDialog\_Code C#\R08 Formulaire (Materiel) H21.1.0\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R08 ShowDialog\_Code C#\R08 Formulaire (Materiel) H21.1.0\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R08 ShowDialog\_Code C#\R08 Formulaire (Materiel) H21.1.0\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R08 ShowDialog\_Code C#\R08 Formulaire (Materiel) H21.1.0\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\AppDistributrice.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R08 ShowDialog\_Code C#\R08 Formulaire (Materiel) H21.1.0\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+J:\H21 2N6 Les Capsules\R08 ShowDialog\_Code C#\R08 Formulaire (Materiel) H21.1.0\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\AppDistributrice.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\ApplicationDistributrice.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\ApplicationDistributrice.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\AppDistributrice.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\AppDistributrice.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\ApplicationDistributrice.exe
+C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer5 Distributrice Tab1D\Exer5 Distributrice Tab1D (Depart)\AppDistributrice\obj\Debug\ApplicationDistributrice.pdb
