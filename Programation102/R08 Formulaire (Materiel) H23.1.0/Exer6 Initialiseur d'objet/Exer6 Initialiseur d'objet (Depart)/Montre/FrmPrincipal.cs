@@ -6,7 +6,7 @@ namespace ApplicationMontre
     {
         public const string APP_INFO = "(Matériel)";
 
-        private Montre m_objMontre;
+        public Montre m_objMontre;
 
         //==================================
         public FrmPrincipal()
@@ -16,10 +16,10 @@ namespace ApplicationMontre
 
             // TODO 01 : Instancier un objet de la classe Montre et utiliser un initialiseur d'objet
             // pour fixer les valeurs des propriétés Heures, Minutes et Secondes comme suit : 12:35:57
-
+            Montre m_objMontre = new Montre() { Heures=12,Minutes=35,Secondes=57};
 
             // TODO 02 : Afficher le temps courant de la montre à l'aide de la méthode ObtenirTempsCourant()
-
+            txtAffichageMontre.Text = m_objMontre.ObtenirTempsCourant();
         }
 
         //============================================================================
@@ -49,6 +49,11 @@ namespace ApplicationMontre
         private void mnuFichierQuitter_Click(object sender, System.EventArgs e)
         {
             Close();
+        }
+
+        private void txtAffichageMontre_TextChanged(object sender, System.EventArgs e)
+        {
+
         }
     }
 }

@@ -171,3 +171,12 @@ C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1
 C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\obj\Debug\AppMontre.csproj.CoreCompileInputs.cache
 C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\obj\Debug\ApplicationMontre.exe
 C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\obj\Debug\ApplicationMontre.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\bin\Debug\ApplicationMontre.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\bin\Debug\ApplicationMontre.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\obj\Debug\AppMontre.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\obj\Debug\AppMontre.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\obj\Debug\AppMontre.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\obj\Debug\ApplicationMontre.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer6 Initialiseur d'objet\Exer6 Initialiseur d'objet (Depart)\Montre\obj\Debug\ApplicationMontre.pdb

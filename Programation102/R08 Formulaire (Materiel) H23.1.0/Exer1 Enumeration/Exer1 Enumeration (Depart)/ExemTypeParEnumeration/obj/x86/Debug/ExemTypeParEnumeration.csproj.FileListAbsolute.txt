@@ -128,3 +128,13 @@ C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1
 C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\obj\x86\Debug\ExemTypeParEnumeration.csproj.CoreCompileInputs.cache
 C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\obj\x86\Debug\ExemTypeParEnumeration.exe
 C:\Users\stephane.desmeules\Downloads\Rencontres\R08 Formulaire (Materiel) H21.1.2\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\obj\x86\Debug\ExemTypeParEnumeration.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\obj\x86\Debug\ExemTypeParEnumeration.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\obj\x86\Debug\ExemTypeParEnumeration.FrmPrincipal.resources
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\obj\x86\Debug\ExemTypeParEnumeration.Properties.Resources.resources
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\obj\x86\Debug\ExemTypeParEnumeration.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\obj\x86\Debug\ExemTypeParEnumeration.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\obj\x86\Debug\ExemTypeParEnumeration.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\obj\x86\Debug\ExemTypeParEnumeration.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\bin\Debug\ExemTypeParEnumeration.exe.config
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\bin\Debug\ExemTypeParEnumeration.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R08 Formulaire (Materiel) H23.1.0\Exer1 Enumeration\Exer1 Enumeration (Depart)\ExemTypeParEnumeration\bin\Debug\ExemTypeParEnumeration.pdb

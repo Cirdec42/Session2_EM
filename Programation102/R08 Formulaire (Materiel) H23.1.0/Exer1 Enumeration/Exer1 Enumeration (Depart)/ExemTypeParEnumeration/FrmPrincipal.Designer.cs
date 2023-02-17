@@ -63,6 +63,7 @@
             this.cboChoix.Name = "cboChoix";
             this.cboChoix.Size = new System.Drawing.Size(121, 21);
             this.cboChoix.TabIndex = 1;
+            this.cboChoix.SelectedIndexChanged += new System.EventHandler(this.cboChoix_SelectedIndexChanged);
             // 
             // lblChoix
             // 

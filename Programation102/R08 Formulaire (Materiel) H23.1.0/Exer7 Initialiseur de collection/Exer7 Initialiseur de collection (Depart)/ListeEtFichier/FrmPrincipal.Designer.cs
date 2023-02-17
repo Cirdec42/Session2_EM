@@ -70,6 +70,7 @@
             this.lstPersonnes.Name = "lstPersonnes";
             this.lstPersonnes.Size = new System.Drawing.Size(461, 268);
             this.lstPersonnes.TabIndex = 8;
+            this.lstPersonnes.SelectedIndexChanged += new System.EventHandler(this.lstPersonnes_SelectedIndexChanged);
             // 
             // FrmPrincipal
             // 

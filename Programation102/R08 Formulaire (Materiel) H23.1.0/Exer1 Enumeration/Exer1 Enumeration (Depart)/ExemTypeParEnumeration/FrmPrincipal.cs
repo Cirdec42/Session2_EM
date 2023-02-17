@@ -31,7 +31,7 @@ namespace ExemTypeParEnumeration
             int choix = cboChoix.SelectedIndex;
 
             // TODO 01 : Ajouter une instruction switch qui utilise les littéraux 0, 1 et 2
-            
+
 
 
 
@@ -122,5 +122,10 @@ namespace ExemTypeParEnumeration
 
         }
         #endregion
+
+        private void cboChoix_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

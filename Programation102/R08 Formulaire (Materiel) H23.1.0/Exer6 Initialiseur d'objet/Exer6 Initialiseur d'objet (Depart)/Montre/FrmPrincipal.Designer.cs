@@ -50,6 +50,7 @@
             this.txtAffichageMontre.TabStop = false;
             this.txtAffichageMontre.Text = "0:00:00";
             this.txtAffichageMontre.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtAffichageMontre.TextChanged += new System.EventHandler(this.txtAffichageMontre_TextChanged);
             // 
             // btnAvancer
             // 
