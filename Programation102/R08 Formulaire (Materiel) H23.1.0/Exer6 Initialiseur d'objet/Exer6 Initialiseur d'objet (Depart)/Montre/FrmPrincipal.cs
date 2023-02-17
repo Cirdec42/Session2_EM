@@ -16,7 +16,7 @@ namespace ApplicationMontre
 
             // TODO 01 : Instancier un objet de la classe Montre et utiliser un initialiseur d'objet
             // pour fixer les valeurs des propriétés Heures, Minutes et Secondes comme suit : 12:35:57
-            Montre m_objMontre = new Montre() { Heures=12,Minutes=35,Secondes=57};
+            m_objMontre = new Montre() { Heures=12,Minutes=35,Secondes=57};
 
             // TODO 02 : Afficher le temps courant de la montre à l'aide de la méthode ObtenirTempsCourant()
             txtAffichageMontre.Text = m_objMontre.ObtenirTempsCourant();
@@ -39,9 +39,9 @@ namespace ApplicationMontre
         //============================================================================
         private void btnInitialiserMontre_Click(object sender, System.EventArgs e)
         {
-            m_objMontre.Heures = 59;
-            m_objMontre.Minutes = 59;
-            m_objMontre.Secondes = 59;
+            m_objMontre.Heures = 00;
+            m_objMontre.Minutes = 00;
+            m_objMontre.Secondes = 00;
 
             txtAffichageMontre.Text = m_objMontre.ObtenirTempsCourant();
         }
