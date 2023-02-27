@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+}
+
+.rouge {
+    background-color: red;
+}
+
+#Card-Anemo, #Card-Electro, #Card-Pyro{
+    background-color: rgba(170, 176, 191, 0.712) ;
+    padding: 2px;
+    border: 2px solid black;
+    border-radius: 15px;   
+    
+    list-style-position: inside;
+}
+ #Card-Container{
+width: 100%;
+background-color: antiquewhite; 
+ }
