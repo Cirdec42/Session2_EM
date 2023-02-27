@@ -2,9 +2,6 @@ body {
     background-color: aquamarine;
 }
 
-.rouge {
-    background-color: red;
-}
 
 #Card-Anemo, #Card-Electro, #Card-Pyro{
     background-color: rgba(170, 176, 191, 0.712) ;
