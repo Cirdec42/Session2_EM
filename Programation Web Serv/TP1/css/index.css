@@ -1,14 +1,16 @@
 
 #Card-Anemo, #Card-Electro, #Card-Pyro{
     background-color: rgba(170, 176, 191, 0.712) ;
-  /*  padding: 2px*/;
+    padding: 2px;
     border: 2px solid black;
     border-radius: 15px;   
     
     list-style-position: inside;
+
+    width: 25%;
 }
- #Card-Container{
+#Card-Container{
 width: 100%;
 margin-top: 100px ;
-background-color: antiquewhite; 
+background-color: rgba(206, 255, 239, 0.568);
  }
