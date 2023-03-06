@@ -1,6 +1,7 @@
-#Image{
+
+img{
+    border: 5px solid green;
+    border-radius: 10px;
     background-color: rgba(228, 255, 246, 0.678);
 }
-img {
-    width: 13rem;
-}
+
