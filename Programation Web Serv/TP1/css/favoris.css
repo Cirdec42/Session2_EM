@@ -1,0 +1,10 @@
+.imgTab {
+    border: 2px solid white;
+    border-radius: 50px;
+    width: 100px;
+    height: auto;
+}
+
+td{
+    vertical-align: middle;
+}
