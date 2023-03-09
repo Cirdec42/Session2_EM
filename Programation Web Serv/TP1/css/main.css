@@ -1,8 +1,16 @@
 *{
-    margin: 0px;
+margin: 0px;
 padding: 0px;
 }
 
 body{
-background-color: aquamarine;
+background-image: url("../IMG/genshin_background.jpg");
+background-repeat: no-repeat;
+background-position: fixed;
+background-size: 100% 100%;
 }
+
+main{
+    margin-top: 70px;
+}
+

@@ -1,0 +1,11 @@
+body{
+    overflow-x: hidden !important;;
+}
+#bandeau{
+    background-color: rgba(0, 0, 0, 0.712) !important;
+    height: auto;
+}
+
+footer{
+    color: white;
+}

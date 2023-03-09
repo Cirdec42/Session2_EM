@@ -44,9 +44,10 @@
     </header>
     <main class="container">
         <div class="row">
-            <div class="col-9 row">
+            <div class="col-12  col-md-9 row">
                 <div class="col-md-4 col-12">
-                    <div id="imageContainer"> <a href="detail.html">
+                    <div id="imageContainer">
+                        <a href="detail.html">
                             <p id="Nom">Xiao</p>
                             <p id="Type">Anemo</p> <img src="IMG/ANEMO/Xiao_Anemo.webp" alt="" class="img-fluid">
                         </a>
@@ -97,7 +98,8 @@
                     </div>
                     <div id="imageContainer"> <a href="detail.html">
                             <p id="Nom">Yae Miko</p>
-                            <p id="Type">Electro</p> <img src="IMG/ELECTRO/Yae_Miko_Electro.webp" alt="" class="img-fluid">
+                            <p id="Type">Electro</p> <img src="IMG/ELECTRO/Yae_Miko_Electro.webp" alt=""
+                                class="img-fluid">
                         </a>
                     </div>
                     <div id="imageContainer"> <a href="detail.html">
@@ -113,37 +115,41 @@
                 </div>
             </div>
 
-            <form action="/action_page.php" class="col-md-3 d-md-block d-none">
-                <label for="">Mots Clés</label>
-                <input type="text" name="Mots Clés" id="" class="form-control">
-                <label for="">Rareté</label>
-                <input type="number" name="" min="4" max="6" id="" class="form-control">
-                <label for="">Personnage Vedette</label>
-                <!--Négotier pour mettre un autre select pour le type d'arme-->
-                <select name="" id="" class="form-control">
-                    <option value="Oui">Peux Importe</option>
-                    <option value="Non">Oui</option>
-                    <option value="Peu Importe">Non</option>
-                </select>
-                <div class="form-check">
-                    <label for="checkbox" class="form-check-label">Anemo</label>
-                    <input type="checkbox" class="form-check-input" value="Anemo">
-                    <!--Radio serais mieux, a parlé avec la prof next time-->
-                </div>
-                <div class="form-check">
-                    <label for="checkbox" class="form-check-label">Electro</label>
-                    <input type="checkbox" class="form-check-input" value="Electro">
-                </div>
-                <div class="form-check">
-                    <label for="checkbox" class="form-check-label">Pyro</label>
-                    <input type="checkbox" class="form-check-input" value="Pyro">
-                </div>
+            <div class="col-md-3 col d-md-block d-none">
+                <form action="https://www.w3schools.com/action_page.php">
+                    <label for="">Mots Clés</label>
+                    <input type="text" name="Mots Clés" id="" class="form-control">
+                    <label for="">Rareté</label>
+                    <input type="number" name="" min="4" max="6" id="" class="form-control">
+                    <label for="">Personnage Vedette</label>
+                    <!--Négotier pour mettre un autre select pour le type d'arme-->
+                    <select name="" id="" class="form-control">
+                        <option value="Oui">Peux Importe</option>
+                        <option value="Non">Oui</option>
+                        <option value="Peu Importe">Non</option>
+                    </select>
+                    <div class="form-check">
+                        <label for="checkbox" class="form-check-label">Anemo</label>
+                        <input type="checkbox" class="form-check-input" value="Anemo">
+                        <!--Radio serais mieux, a parlé avec la prof next time-->
+                    </div>
+                    <div class="form-check">
+                        <label for="checkbox" class="form-check-label">Electro</label>
+                        <input type="checkbox" class="form-check-input" value="Electro">
+                    </div>
+                    <div class="form-check">
+                        <label for="checkbox" class="form-check-label">Pyro</label>
+                        <input type="checkbox" class="form-check-input" value="Pyro">
+                    </div>
 
 
 
-                <input type="submit" name="" id="" class="form-control" class="btn-primary">
-                <input type="reset" name="" id="" class="form-control" class="btn-info">
-            </form>
+                    <input type="submit" name="" id="" class="form-control" class="btn-primary">
+                    <input type="reset" name="" id="" class="form-control" class="btn-info">
+                </form>
+
+            </div>
+
         </div>
     </main>
 </body>
