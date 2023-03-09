@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="League of legends">
+    <meta name="keywords" content="Genshin Anime Gaming">
+    <meta name="author" content="Cedric Daigneault">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="https://kit.fontawesome.com/0ab89c5f07.js" crossorigin="anonymous"></script>
+    <title>Recherche</title>
+
+</head>
+
+<body>
+    <header>
+        <nav role="navigation" class="row">
+            <div id="switch" class="col">
+                <input type="checkbox" />
+
+                <span></span>
+                <span></span>
+                <span></span>
+
+                <ul id="liste">
+                    <a href="Index.html">
+                        <li> <i class="fa-solid fa-house"></i> acceuil</li>
+                    </a>
+                    <a href="favoris.html">
+                        <li><i class="fa-regular fa-star"></i>favoris</li>
+                    </a>
+                    <a href="recherche.html">
+                        <li><i class="fa-solid fa-magnifying-glass"></i>recherche</li>
+                    </a>
+
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main class="container" id="rechercheMain">
+        <div class="row">
+            <div class="col-12  col-md-9 row">
+                <div class="col-md-4 col-12">
+                    <div id="imageContainer">
+                        <a href="detail.html">
+                            <p id="Nom">Xiao</p>
+                            <p id="Type">Anemo</p> <img src="IMG/ANEMO/Xiao_Anemo.webp" alt="" class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                    <div id="imageContainer"> <a href="detail.html">
+                            <p id="Nom">Nomade</p>
+                            <p id="Type">Anemo</p> <img src="IMG/ANEMO/Nomade_Anemo.webp" alt="" class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                    <div id="imageContainer"> <a href="detail.html">
+                            <p id="Nom">Traveler Twins</p>
+                            <p id="Type">Anemo</p> <img src="IMG/ANEMO/Traveler_.webp" alt="" class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                    <div id="imageContainer"> <a href="detail.html">
+                            <p id="Nom">Sucrose</p>
+                            <p id="Type">Anemo</p> <img src="IMG/ANEMO/Sucrose_Anemo.webp" alt="" class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4 col-12">
+                    <div id="imageContainer"> <a href="detail.html">
+                            <p id="Nom">Diluc</p>
+                            <p id="Type">Pyro</p> <img src="IMG/PYRO/Diluc_Pyro.webp" alt="" class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                    <div id="imageContainer"> <a href="detail.html">
+                            <p id="Nom">Klee</p>
+                            <p id="Type">Pyro</p> <img src="IMG/PYRO/Klee_Pyro.webp" alt="" class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                    <div id="imageContainer"> <a href="detail.html">
+                            <p id="Nom">Thomas</p>
+                            <p id="Type">Pyro</p> <img src="IMG/PYRO/Thomas_Pyro.webp" alt="" class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                    <div id="imageContainer"> <a href="detail.html">
+                            <p id="Nom">Yanfei</p>
+                            <p id="Type">Pyro</p> <img src="IMG/PYRO/Yanfei_Pyro.webp" alt="" class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4 col-12">
+                    <div id="imageContainer"> <a href="detail.html">
+                            <p id="Nom">Cyno</p>
+                            <p id="Type">Electro</p> <img src="IMG/ELECTRO/Cyno_Electro.webp" alt="" class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                    <div id="imageContainer"> <a href="detail.html">
+                            <p id="Nom">Yae Miko</p>
+                            <p id="Type">Electro</p> <img src="IMG/ELECTRO/Yae_Miko_Electro.webp" alt=""
+                                class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                    <div id="imageContainer"> <a href="detail.html">
+                            <p id="Nom">Kuki</p>
+                            <p id="Type">Electro</p> <img src="IMG/ELECTRO/Kuki_Electro.webp" alt="" class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                    <div id="imageContainer"> <a href="detail.html">
+                            <p id="Nom">Lisa</p>
+                            <p id="Type">Electro</p> <img src="IMG/ELECTRO/Lisa_electro.webp" alt="" class="img-fluid" id="rechercheIMG">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3 col d-md-block d-none">
+                <form action="https://www.w3schools.com/action_page.php">
+                    <label for="">Mots Clés</label>
+                    <input type="text" name="Mots Clés" id="" class="form-control">
+                    <label for="">Rareté</label>
+                    <input type="number" name="" min="4" max="6" id="" class="form-control">
+                    <label for="">Personnage Vedette</label>
+                    <!--Négotier pour mettre un autre select pour le type d'arme-->
+                    <select name="" id="" class="form-control">
+                        <option value="Oui">Peux Importe</option>
+                        <option value="Non">Oui</option>
+                        <option value="Peu Importe">Non</option>
+                    </select>
+                    <div class="form-check">
+                        <label for="checkbox" class="form-check-label">Anemo</label>
+                        <input type="checkbox" class="form-check-input" value="Anemo">
+                        <!--Radio serais mieux, a parlé avec la prof next time-->
+                    </div>
+                    <div class="form-check">
+                        <label for="checkbox" class="form-check-label">Electro</label>
+                        <input type="checkbox" class="form-check-input" value="Electro">
+                    </div>
+                    <div class="form-check">
+                        <label for="checkbox" class="form-check-label">Pyro</label>
+                        <input type="checkbox" class="form-check-input" value="Pyro">
+                    </div>
+
+
+
+                    <input type="submit" name="" id="" class="form-control" class="btn-primary">
+                    <input type="reset" name="" id="" class="form-control" class="btn-info">
+                </form>
+
+            </div>
+
+        </div>
+    </main>
+
+    <footer class="container-fluid">
+        <div id="bandeau" class="row">
+            <div class="col-12 text-center">
+                <p>Pour nous joindre:</p>
+                <span><i class="fa-solid fa-phone"></i> 1 (877) 568-2495 </span> <br>
+                <span><a href="https://youtu.be/dQw4w9WgXcQ">Genshin Wiki</i></a> </span> <br>
+                <span><a href="mailto: cirdec42.buisness@gmail.com" target="_blank">Send Email</a></span>
+                <br><br>
+                <p>Tout droit réservé à Cédric Daigneault &copy;</p>
+    
+            </div>
+        </div>
+
+</body>
+
+</html>
+
+<!--Copyright (c) 2023 All rights reserved. Création de Cirdec-->
