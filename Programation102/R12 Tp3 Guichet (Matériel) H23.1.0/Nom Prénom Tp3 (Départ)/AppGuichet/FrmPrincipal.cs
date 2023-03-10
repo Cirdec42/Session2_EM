@@ -26,30 +26,30 @@ namespace AppGuichet
         #endregion
 
         #region Champs et Propriétés : À RÉACTIVER lorsque vos classes Client et Transaction seront complétées
-        //private List<Client> m_colClients;
-        //public List<Client> ColClients
-        //{
-        //    get { return m_colClients; }
-        //}
+        public List<Client> m_colClients;
+        public List<Client> ColClients
+        {
+            get { return m_colClients; }
+        }
 
-        //private List<Transaction> m_colTransactions;
-        //public List<Transaction> ColTransactions
-        //{
-        //    get { return m_colTransactions; }
-        //}
+        public List<Transaction> m_colTransactions;
+        public List<Transaction> ColTransactions
+        {
+            get { return m_colTransactions; }
+        }
 
-        //private Client m_objClientCourant;
-        //public Client ClientCourant
-        //{
-        //    get
-        //    {
-        //        return m_objClientCourant;
-        //    }
-        //    set
-        //    {
-        //        m_objClientCourant = value;
-        //    }
-        //}
+        private Client m_objClientCourant;
+        public Client ClientCourant
+        {
+            get
+            {
+                return m_objClientCourant;
+            }
+            set
+            {
+                m_objClientCourant = value;
+            }
+        }
         #endregion
 
         public FrmPrincipal()
@@ -60,7 +60,9 @@ namespace AppGuichet
             // À COMPLÉTER...
 
             // Initialiser vos 2 collections ainsi que le ClientCourant...
-
+            m_colClients = new List<Client>();
+            m_colTransactions = new List<Transaction>();
+            m_objClientCourant = null;
             // Le programme doit charger les deux collections en débutant : NE PAS MODIFIER
             ChargerCollectionClients();
             ChargerCollectionTransactions();
@@ -76,6 +78,14 @@ namespace AppGuichet
         private void ChargerCollectionClients()
         {
             // À COMPLÉTER...
+            StreamReader objStreamReader = new StreamReader(NOM_FICHIER_CLIENTS);
+            while (!objStreamReader.EndOfStream)
+            {
+                string uneLigneLue = objStreamReader.ReadLine();
+                Client unclient =new Client(uneLigneLue);
+                m_colClients.Add(unclient);
+            }
+            objStreamReader.Close();
         }
         //----------------------------------------------------------------------------------------------------
         /// <summary>
@@ -86,6 +96,15 @@ namespace AppGuichet
         private void ChargerCollectionTransactions()
         {
             // À COMPLÉTER...
+            StreamReader objStreamReader = new StreamReader(NOM_FICHIER_TRANSACTIONS);
+            while (!objStreamReader.EndOfStream)
+            {
+                string uneLigneLue = objStreamReader.ReadLine();
+                string[] tabInfos = uneLigneLue.Split(',');
+                Transaction uneTransaction = new Transaction(uneLigneLue);
+                m_colTransactions.Add(uneTransaction);
+            }
+            objStreamReader.Close();
         }
 
         #endregion
@@ -97,9 +116,15 @@ namespace AppGuichet
         /// Puisque le solde du client a pu changer après le retrait.
         /// </summary>
         /// -------------------------------------------------------------------------------------
-        private void EnregistrerCollectionClients()
+        public void EnregistrerCollectionClients()
         {
             // À COMPLÉTER...
+            StreamWriter writer = new StreamWriter(NOM_FICHIER_CLIENTS);
+            foreach (Client unclient in m_colClients)
+            {
+                writer.WriteLine(unclient.ToString());
+            }
+            writer.Close();
         }
         //---------------------------------------------------------------------------------
         private void mnuFichierQuitter_Click(object sender, EventArgs e)
@@ -110,6 +135,8 @@ namespace AppGuichet
         private void FrmPrincipal_FormClosing(object sender, FormClosingEventArgs e)
         {
             // À COMPLÉTER...
+            EnregistrerCollectionClients();
+
         }
         #endregion
 

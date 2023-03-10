@@ -17,5 +17,10 @@ namespace AppGuichet
         {
 
         }
+
+        private void lsvTransactions_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

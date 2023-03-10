@@ -1,10 +1,10 @@
 ﻿//Décommenter les lignes suivantes pour activer les tests
 //Partie à faire au premier labo
-//#define TestClasseClient
+#define TestClasseClient
 #define TestClasseTransaction
 
 //Partie à faire au deuxième labo
-//#define TestFormulairePrincipalDebut
+#define TestFormulairePrincipalDebut
 //#define TestLesFormulairesListe
 
 //Partie finale

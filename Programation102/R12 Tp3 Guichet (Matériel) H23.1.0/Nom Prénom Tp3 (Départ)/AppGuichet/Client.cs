@@ -14,7 +14,7 @@ namespace AppGuichet
         private string m_numClient;
         private int m_solde;
         private SorteComptes m_sorteCompte;
-        public const int MAX_SOLDE = 1000;
+        public const int MAX_SOLDE = 1000000;
         #endregion
 
         #region Propriété
@@ -54,20 +54,24 @@ namespace AppGuichet
             m_nom = tokens[2];
             m_solde = int.Parse(tokens[3]);
             m_motDePasse = tokens[4];
+            if (m_solde > MAX_SOLDE || m_solde < 0)
+            {
+                throw new ArgumentOutOfRangeException("value");
+            }
+
+
         }
         public Client(string pNumClient, SorteComptes pSorteCompte, string pNom, int pSolde, string pMotDePasse)
         {
             if (pSolde > MAX_SOLDE || pSolde < 0)
             {
-                throw new ArgumentException("value");
+                throw new ArgumentOutOfRangeException("value");
             }
             m_numClient = pNumClient;
             m_sorteCompte = pSorteCompte;
             m_nom = pNom;
             m_solde = pSolde;
             m_motDePasse = pMotDePasse;
-
-
         }
 
         public bool PeutRetirer(int pMontant)
@@ -85,7 +89,7 @@ namespace AppGuichet
 
         public void Retirer(int pMontant)
         {
-            if (pMontant>m_solde|| pMontant<0)
+            if (pMontant>m_solde|| pMontant<=0)
             {
                 throw new ArgumentOutOfRangeException("value");
             }

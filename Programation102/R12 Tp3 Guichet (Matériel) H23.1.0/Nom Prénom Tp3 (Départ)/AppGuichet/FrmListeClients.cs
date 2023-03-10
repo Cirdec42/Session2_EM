@@ -9,5 +9,10 @@ namespace AppGuichet
         {
             InitializeComponent();
         }
+
+        private void lsvClients_SelectedIndexChanged(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }

@@ -57,6 +57,7 @@
             this.lsvClients.TabIndex = 2;
             this.lsvClients.UseCompatibleStateImageBehavior = false;
             this.lsvClients.View = System.Windows.Forms.View.Details;
+            this.lsvClients.SelectedIndexChanged += new System.EventHandler(this.lsvClients_SelectedIndexChanged);
             // 
             // clhNo
             // 

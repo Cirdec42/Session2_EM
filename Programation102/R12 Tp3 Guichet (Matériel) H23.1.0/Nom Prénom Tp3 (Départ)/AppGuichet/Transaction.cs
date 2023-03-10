@@ -28,7 +28,7 @@ namespace AppGuichet
             get { return m_numClient; }
         }
 
-        public SorteTransactions SorteTransactions
+        public SorteTransactions SorteTransaction
         {
             get { return m_sorteTransactions; }
         }
@@ -36,15 +36,18 @@ namespace AppGuichet
 
         public override string ToString()
         {
-            return (int)SorteTransactions + "," + NumClient + "," + Date + "," + Montant;
+            return (int)SorteTransaction + "," + NumClient + "," + Date + "," + Montant;
         }
 
         public Transaction(SorteTransactions pSorte, string pNumClient,DateTime pDate, int pMontant)
         {
             m_date = pDate;
+            if (pMontant < 0){throw new ArgumentOutOfRangeException("value");}
+            if (pSorte != SorteTransactions.Retrait && pMontant!=0){throw new ArgumentOutOfRangeException("value");}
             m_montant = pMontant;
             m_numClient = pNumClient;
             m_sorteTransactions = pSorte;
+
         }
 
         public Transaction(string pChaineLue)
@@ -55,6 +58,9 @@ namespace AppGuichet
             m_numClient = tokens[1];
             m_date = (DateTime)DateTime.Parse(tokens[2]);
             m_montant = int.Parse(tokens[3]);
+            if (m_montant < 0) { throw new ArgumentOutOfRangeException("value"); }
+            if (m_sorteTransactions != SorteTransactions.Retrait && m_montant != 0) { throw new ArgumentOutOfRangeException("value"); }
+
         }
     }
 }
