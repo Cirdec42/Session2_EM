@@ -1,0 +1,97 @@
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\AppGuichet.exe
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\AppGuichet.pdb
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\AppGuichet.exe.config
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\obj\Debug\CorrecteurGuichet.csprojAssemblyReference.cache
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\obj\Debug\CorrecteurGuichet.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\obj\Debug\CorrecteurGuichet.csproj.CopyComplete
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\stephane.desmeules\source\repos\Guichet\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\UnitTestProject1.dll
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\UnitTestProject1.pdb
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\AppGuichet.exe
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\AppGuichet.pdb
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\AppGuichet.exe.config
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csprojAssemblyReference.cache
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csproj.CoreCompileInputs.cache
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csproj.CopyComplete
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\obj\Debug\UnitTestProject1.dll
+E:\_Cours 2N6 H20\R12 Travail Pratique #3 labo 1\R12 Tp3 Guichet (Solution) H20.1.0\CorrecteurGuichet\obj\Debug\UnitTestProject1.pdb
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\CorrecteurGuichet.dll
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\CorrecteurGuichet.pdb
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\AppGuichet.exe
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\AppGuichet.pdb
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\AppGuichet.exe.config
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.dll
+J:\H21 2N6 Les Capsules\R12 Travail Pratique #2\_Code C#\R12 Tp3 Guichet (Matériel) H20.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\CorrecteurGuichet.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\CorrecteurGuichet.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\AppGuichet.exe
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\AppGuichet.pdb
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\AppGuichet.exe.config
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\2132903\Desktop\Session2_EM\Programation102\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csproj.CopyComplete
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csproj.AssemblyReference.cache
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csproj.CoreCompileInputs.cache
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.dll
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.pdb
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\CorrecteurGuichet.dll
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\CorrecteurGuichet.pdb
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\AppGuichet.exe
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\AppGuichet.pdb
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\AppGuichet.exe.config
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\cedri\Desktop\R12 Tp3 Guichet (Matériel) H23.1.0\R12 Tp3 Guichet (Matériel) H23.1.0\Nom Prénom Tp3 (Départ)\CorrecteurGuichet\obj\Debug\CorrecteurGuichet.csproj.CopyComplete
